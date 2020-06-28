@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90970" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90970" parent="peri30-dataelement-90969" shortName="ademfrequentie" type="item" status="cancelled" dataType="quantity" orderKey="13.4.9.1">
+  <property name="name" language="nl-NL">Ademfrequentie</property>
+  <property name="description" language="nl-NL">De waarde van de gemeten ademhalingsfrequentie. De ademhalingsfrequentie betreft het aantal ademhalingen per minuut.</property>
+</concept>

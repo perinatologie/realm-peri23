@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20500" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20500" parent="peri23-dataelement-6" shortName="partusnummer" type="item" status="final" dataType="identifier" lengthMin="1" lengthMax="30" orderKey="9.1">
+  <property name="name" language="nl-NL">Partusnummer</property>
+  <property name="description" language="nl-NL">Unieke identificatie van de bevalling, uniek per jaar binnen een zorgaanbieder.</property>
+</concept>

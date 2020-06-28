@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TelecomTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.20.6.1" shortName="TelecomTypeCodelijst" displayName="TelecomTypeCodelijst" status="final">
+  <item code="LL" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.22.1" displayName="Land Line" type="L">
+    <property name="name" language="nl-NL">Vast telefoonnummer</property>
+  </item>
+  <item code="FAX" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.22.1" displayName="Fax" type="L">
+    <property name="name" language="nl-NL">Fax</property>
+  </item>
+  <item code="MC" codeSystem="2.16.840.1.113883.5.1119" displayName="Mobile Phone" type="L">
+    <property name="name" language="nl-NL">Mobiel telefoonnummer</property>
+  </item>
+  <item code="PG" codeSystem="2.16.840.1.113883.5.1119" displayName="Pager" type="L">
+    <property name="name" language="nl-NL">Pieper</property>
+  </item>
+</codelist>

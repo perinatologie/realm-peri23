@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ManchetTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.4.3" shortName="ManchetTypeCodelijst" displayName="ManchetTypeCodelijst" status="final">
+  <item code="STD" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Standaard" type="L">
+    <property name="name" language="nl-NL">Standaard (Standaard manchet voor een volwassene (manchet 16x30 cm)</property>
+  </item>
+  <item code="L" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Groot" type="L">
+    <property name="name" language="nl-NL">Groot (Een manchet voor een volwassene met een armomtrek van 35 tot 44 cm (manchet 16x36 cm))</property>
+  </item>
+  <item code="S" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Klein" type="L">
+    <property name="name" language="nl-NL">Klein (Een manchet voor een volwassene met een armomtrek van 22 tot 26 cm (manchet 12x22 cm) )</property>
+  </item>
+  <item code="XL" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Extra groot" type="L">
+    <property name="name" language="nl-NL">Extra groot (Een manchet voor het dijbeen of arm wanneer de armomtrek 45 tot 52 cm is (manchet 16x42 cm))</property>
+  </item>
+  <item code="KIND" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Kind" type="L">
+    <property name="name" language="nl-NL">Maat voor kind (Een manchet voor kinderen of voor volwassenen met een dunne arm (manchet ca. 8x21 cm) )</property>
+  </item>
+  <item code="JONGKIND" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Jong kind" type="L">
+    <property name="name" language="nl-NL">Maat voor jong kind (Een manchet voor jonge kinderen (manchet ca. 5x15 cm))</property>
+  </item>
+  <item code="NEONAAT" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.15.1" displayName="Neonaat" type="L">
+    <property name="name" language="nl-NL">Maat voor neonaat (Een manchet voor neonaten (manchet ca. 3x6 cm))</property>
+  </item>
+</codelist>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VoedingSoortCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.4.31.1" shortName="VoedingSoortCodelijst" displayName="VoedingSoortCodelijst" status="final">
+  <item code="226790003" codeSystem="2.16.840.1.113883.6.96" displayName="Expressed breast milk" type="L">
+    <property name="name" language="nl-NL">Borstvoeding</property>
+  </item>
+  <item code="386127005" codeSystem="2.16.840.1.113883.6.96" displayName="Formula milk" type="L">
+    <property name="name" language="nl-NL">Kunstvoeding</property>
+  </item>
+</codelist>

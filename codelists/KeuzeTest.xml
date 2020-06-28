@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="KeuzeTest" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.266" shortName="KeuzeTest" displayName="KeuzeTest" status="draft">
+  <item code="41040004+254266000+254268004" codeSystem="2.16.840.1.113883.6.96" displayName="T21, T18, T13" type="L">
+    <property name="name" language="nl-NL">Trisomie 21, Trisomie 18, Trisomie 13</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.201" displayName="T21, T18, T13 en nevenbevindingen" type="L">
+    <property name="name" language="nl-NL">Trisomie 21, Trisomie 18, Trisomie 13 &amp; nevenbevindingen</property>
+  </item>
+</codelist>

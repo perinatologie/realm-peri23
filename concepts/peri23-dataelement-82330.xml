@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82330" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82330" parent="peri23-dataelement-83382" shortName="conclusie_tweede_trimester_seo" type="item" status="draft" dataType="code" codelist="ConclusieSEO" orderKey="11.8.2">
+  <property name="name" language="nl-NL">Conclusie tweede trimester SEO</property>
+  <property name="description" language="nl-NL"/>
+</concept>

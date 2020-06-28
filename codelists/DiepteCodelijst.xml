@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="DiepteCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.5.2" shortName="DiepteCodelijst" displayName="DiepteCodelijst" status="final">
+  <item code="301284009" codeSystem="2.16.840.1.113883.6.96" displayName="Normal depth of breathing" type="L">
+    <property name="name" language="nl-NL">Normale ademhalingsdiepte</property>
+  </item>
+  <item code="386616007" codeSystem="2.16.840.1.113883.6.96" displayName="Shallow breathing" type="L">
+    <property name="name" language="nl-NL">Oppervlakkige ademhaling</property>
+  </item>
+  <item code="289123006" codeSystem="2.16.840.1.113883.6.96" displayName="Deep breathing" type="L">
+    <property name="name" language="nl-NL">Diepe ademhaling</property>
+  </item>
+  <item code="248587009" codeSystem="2.16.840.1.113883.6.96" displayName="Depth of respiration varies" type="L">
+    <property name="name" language="nl-NL">Ademhalingsdiepte varieert</property>
+  </item>
+</codelist>

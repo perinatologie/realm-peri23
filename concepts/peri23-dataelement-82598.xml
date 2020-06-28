@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82598" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82598" parent="peri23-dataelement-82585" shortName="uitvoerder" type="group" status="cancelled" orderKey="13.2.6.10">
+  <property name="name" language="nl-NL">Uitvoerder</property>
+  <property name="description" language="nl-NL">De zorgverlener die de verrichting heeft uitgevoerd. In de meeste gevallen wordt alleen het specialisme en niet de naam van de zorgverlener doorgegeven.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20060" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20060" parent="peri23-dataelement-3" shortName="vals_positieve_zwangerschapq" type="item" status="draft" dataType="boolean" orderKey="7.15">
+  <property name="name" language="nl-NL">Vals positieve zwangerschap?</property>
+  <property name="description" language="nl-NL">De vaststelling dat vrouw toch niet zwanger is. Wordt vooralsnog alleen bij de jonge zwangerschapsecho gevraagd. Zou echter conceptueel goed bij 'Einde zorgverlening' passen.</property>
+</concept>

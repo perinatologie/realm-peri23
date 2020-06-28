@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82287" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82287" parent="peri23-dataelement-82235" shortName="afwijking_placentavliezennavelstrengq" type="item" status="cancelled" dataType="boolean" orderKey="11.16.3.10">
+  <property name="name" language="nl-NL">Afwijking placenta/vliezen/navelstreng?</property>
+  <property name="description" language="nl-NL">Is er een afwijking placenta en/of vliezen en/of navelstreng?</property>
+</concept>

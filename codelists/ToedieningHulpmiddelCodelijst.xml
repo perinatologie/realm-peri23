@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ToedieningHulpmiddelCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.5.4" shortName="ToedieningHulpmiddelCodelijst" displayName="ToedieningHulpmiddelCodelijst" status="final">
+  <item code="336623009" codeSystem="2.16.840.1.113883.6.96" displayName="Oxygen nasal cannula" type="L">
+    <property name="name" language="nl-NL">Neusbril</property>
+  </item>
+  <item code="428285009" codeSystem="2.16.840.1.113883.6.96" displayName="Venturi mask" type="L">
+    <property name="name" language="nl-NL">Venturi masker</property>
+  </item>
+  <item code="427591007" codeSystem="2.16.840.1.113883.6.96" displayName="Nonrebreather oxygen mask" type="L">
+    <property name="name" language="nl-NL">Non-rebreathing masker</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Other" type="L">
+    <property name="name" language="nl-NL">Anders</property>
+  </item>
+</codelist>

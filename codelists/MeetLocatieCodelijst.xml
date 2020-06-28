@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MeetLocatieCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.4.4" shortName="MeetLocatieCodelijst" displayName="MeetLocatieCodelijst" status="final">
+  <item code="40983000" codeSystem="2.16.840.1.113883.6.96" displayName="Upper arm structure" type="L">
+    <property name="name" language="nl-NL">Bovenarm</property>
+  </item>
+  <item code="368209003" codeSystem="2.16.840.1.113883.6.96" displayName="Right upper arm structure" type="L">
+    <property name="name" language="nl-NL">Rechter bovenarm</property>
+  </item>
+  <item code="368208006" codeSystem="2.16.840.1.113883.6.96" displayName="Left upper arm structure" type="L">
+    <property name="name" language="nl-NL">Linker bovenarm</property>
+  </item>
+  <item code="68367000" codeSystem="2.16.840.1.113883.6.96" displayName="Thigh structure" type="L">
+    <property name="name" language="nl-NL">Bovenbeen</property>
+  </item>
+  <item code="11207009" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of right thigh" type="L">
+    <property name="name" language="nl-NL">Rechter bovenbeen</property>
+  </item>
+  <item code="61396006" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of left thigh" type="L">
+    <property name="name" language="nl-NL">Linker bovenbeen</property>
+  </item>
+  <item code="8205005" codeSystem="2.16.840.1.113883.6.96" displayName="Wrist region structure" type="L">
+    <property name="name" language="nl-NL">Pols</property>
+  </item>
+  <item code="9736006" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of right wrist" type="L">
+    <property name="name" language="nl-NL">Rechterpols</property>
+  </item>
+  <item code="5951000" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of left wrist" type="L">
+    <property name="name" language="nl-NL">Linkerpols</property>
+  </item>
+  <item code="7569003" codeSystem="2.16.840.1.113883.6.96" displayName="Finger structure" type="L">
+    <property name="name" language="nl-NL">Vinger</property>
+  </item>
+  <item code="344001" codeSystem="2.16.840.1.113883.6.96" displayName="Ankle region structure" type="L">
+    <property name="name" language="nl-NL">Enkel</property>
+  </item>
+  <item code="6685009" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of right ankle" type="L">
+    <property name="name" language="nl-NL">Rechterenkel</property>
+  </item>
+  <item code="51636004" codeSystem="2.16.840.1.113883.6.96" displayName="Structure of left ankle" type="L">
+    <property name="name" language="nl-NL">Linkerenkel</property>
+  </item>
+</codelist>

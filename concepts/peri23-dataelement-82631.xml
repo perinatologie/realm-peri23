@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82631" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82631" parent="peri23-dataelement-82626" shortName="wijze_van_blootstelling" type="item" status="cancelled" dataType="code" codelist="WijzeVanBlootstellingCodelijst" orderKey="13.2.5.8.5">
+  <property name="name" language="nl-NL">WijzeVanBlootstelling</property>
+  <property name="description" language="nl-NL">Wijze waarop de patiënt in aanraking is gekomen met de veroorzakende stof of de wijze waarop de stof toegediend is.</property>
+</concept>

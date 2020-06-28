@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Neurologie_Tonus_Kind" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.272" shortName="Neurologie_Tonus_Kind" displayName="Neurologie Tonus Kind" status="draft">
+  <item code="56731001" codeSystem="2.16.840.1.113883.6.96" displayName="verhoogde spiertonus (bevinding)" type="L">
+    <property name="name" language="nl-NL">Hypertoon</property>
+  </item>
+  <item code="398151007" codeSystem="2.16.840.1.113883.6.96" displayName="verminderde spiertonus (bevinding)" type="L">
+    <property name="name" language="nl-NL">Hypotoon</property>
+  </item>
+</codelist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Specialisme" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.218" shortName="Specialisme" displayName="Specialisme" status="final">
+  <item code="01" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Verloskundige" type="L">
+    <property name="name" language="nl-NL">verloskundige</property>
+  </item>
+  <item code="02" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Gynaecoloog 2e lijn" type="L">
+    <property name="name" language="nl-NL">gynaecoloog 2e lijn</property>
+  </item>
+  <item code="03" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Gynaecoloog 3e lijn" type="L">
+    <property name="name" language="nl-NL">gynaecoloog 3e lijn</property>
+  </item>
+  <item code="04" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Kinderarts 2e lijn" type="L">
+    <property name="name" language="nl-NL">kinderarts 2e lijn</property>
+  </item>
+  <item code="05" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Kinderarts 3e lijn" type="L">
+    <property name="name" language="nl-NL">kinderarts 3e lijn</property>
+  </item>
+  <item code="06" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Huisarts" type="L">
+    <property name="name" language="nl-NL">huisarts</property>
+  </item>
+  <item code="07" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Echoscopist" type="L">
+    <property name="name" language="nl-NL">echoscopist</property>
+  </item>
+  <item code="08" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Klinisch geneticus" type="L">
+    <property name="name" language="nl-NL">klinisch geneticus</property>
+  </item>
+  <item code="09" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Psychiater" type="L">
+    <property name="name" language="nl-NL">psychiater</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.15.1" displayName="Medisch specialist overig" type="L">
+    <property name="name" language="nl-NL">medisch specialist overig</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

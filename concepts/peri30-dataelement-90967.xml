@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90967" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90967" parent="peri30-dataelement-90963" shortName="temperatuur_type" type="item" status="cancelled" dataType="code" codelist="TemperatuurTypeCodelijst" orderKey="13.4.7.4">
+  <property name="name" language="nl-NL">TemperatuurType</property>
+  <property name="description" language="nl-NL">De anatomische plaats waar de lichaamstemperatuur is gemeten.</property>
+</concept>

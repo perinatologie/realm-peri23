@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Advies_1e_trimester_SEO" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.257" shortName="Advies_1e_trimester_SEO" displayName="Advies_1e_trimester_SEO" status="draft">
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="tweede trimester SEO" type="L">
+    <property name="name" language="nl-NL">tweede trimester SEO</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="verwijzing GUO" type="L">
+    <property name="name" language="nl-NL">verwijzing GUO</property>
+  </item>
+</codelist>

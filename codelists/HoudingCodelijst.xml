@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="HoudingCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.4.5" shortName="HoudingCodelijst" displayName="HoudingCodelijst" status="final">
+  <item code="10904000" codeSystem="2.16.840.1.113883.6.96" displayName="Orthostatic body position" type="L">
+    <property name="name" language="nl-NL">Staande positie</property>
+  </item>
+  <item code="102538003" codeSystem="2.16.840.1.113883.6.96" displayName="Recumbent body position" type="L">
+    <property name="name" language="nl-NL">Liggende positie</property>
+  </item>
+  <item code="33586001" codeSystem="2.16.840.1.113883.6.96" displayName="Sitting position" type="L">
+    <property name="name" language="nl-NL">Zittende positie</property>
+  </item>
+  <item code="272587006" codeSystem="2.16.840.1.113883.6.96" displayName="Position with tilt" type="L">
+    <property name="name" language="nl-NL">Achteroverleunende positie</property>
+  </item>
+  <item code="34106002" codeSystem="2.16.840.1.113883.6.96" displayName="Trendelenburg position" type="L">
+    <property name="name" language="nl-NL">Trendelenburgligging</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82611" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82611" parent="peri23-dataelement-82610" shortName="tijds_interval" type="group" status="cancelled" orderKey="13.2.4.5.1">
+  <property name="name" language="nl-NL">TijdsInterval</property>
+  <property name="description" language="nl-NL">Rootconcept van de subbouwsteen TijdsInterval. Dit rootconcept bevat alle gegevenselementen van de subbouwsteen TijdsInterval.</property>
+</concept>

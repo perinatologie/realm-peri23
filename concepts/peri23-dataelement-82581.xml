@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82581" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82581" parent="peri23-dataelement-82577" shortName="type_verwijzing" type="item" status="final" dataType="code" codelist="TypeVerwijzing" orderKey="1.5.4.2">
+  <property name="name" language="nl-NL">Type verwijzing</property>
+  <property name="description" language="nl-NL">Type verwijzing. De ontvangende partij bij een verwijzing bepaalt of de verwijzing resulteert in een consult of in een overname.</property>
+</concept>

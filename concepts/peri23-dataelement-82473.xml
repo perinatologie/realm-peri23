@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82473" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82473" parent="peri23-dataelement-82454" shortName="anemie" type="item" status="final" dataType="code" codelist="Anemie22" orderKey="1.5.5.3.1.10">
+  <property name="name" language="nl-NL">Anemie</property>
+  <property name="description" language="nl-NL">Anemie</property>
+</concept>

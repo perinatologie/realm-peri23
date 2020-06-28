@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Onderzoektype" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.255" shortName="Onderzoektype" displayName="Onderzoektype" status="draft">
+  <item code="241493005" codeSystem="2.16.840.1.113883.6.96" displayName="echografie voor foetale groei (verrichting)" type="L">
+    <property name="name" language="nl-NL">groeiecho</property>
+  </item>
+  <item code="414880004" codeSystem="2.16.840.1.113883.6.96" displayName="echografie van nekplooi (verrichting)" type="L">
+    <property name="name" language="nl-NL">NT-meting</property>
+  </item>
+  <item code="446522006" codeSystem="2.16.840.1.113883.6.96" displayName="Ultrasonography in first trimester (procedure)" type="L">
+    <property name="name" language="nl-NL">eerste trimeste SEO (Structureel Echoscopisch Onderzoek)</property>
+  </item>
+  <item code="446208007" codeSystem="2.16.840.1.113883.6.96" displayName="echografie in tweede trimester (verrichting)" type="L">
+    <property name="name" language="nl-NL">tweede trimester weken SEO (Structureel Echoscopisch Onderzoek)</property>
+  </item>
+  <item code="425551008" codeSystem="2.16.840.1.113883.6.96" displayName="prenatale echografie voor mogelijke afwijking (verrichting)" type="L">
+    <property name="name" language="nl-NL">Geavanceerd ultrageluid onderzoek (GUO)</property>
+  </item>
+  <item code="472825005" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal chromosomal abnormality screening (procedure)" type="L">
+    <property name="name" language="nl-NL">Kansbepaling combinatietest</property>
+  </item>
+  <item code="7751000146103" codeSystem="2.16.840.1.113883.6.96" displayName="Non-invasive prenatal test (procedure)" type="L">
+    <property name="name" language="nl-NL">NIPT</property>
+  </item>
+</codelist>

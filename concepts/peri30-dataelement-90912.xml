@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90912" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90912" parent="peri30-dataelement-90909" shortName="toelichting" type="item" status="cancelled" dataType="string" orderKey="13.2.14.3">
+  <property name="name" language="nl-NL">Toelichting</property>
+  <property name="description" language="nl-NL">Toelichting over eventuele problemen of factoren die van invloed kunnen zijn op de meting. Ook kan hier een nadere beschrijving van de polskwaliteiten worden weergegeven: aequaal/inaequaal, pulsus alternans, pulsus paradoxus, pols volume, enz.</property>
+</concept>

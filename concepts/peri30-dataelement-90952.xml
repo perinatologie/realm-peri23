@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90952" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90952" parent="peri30-dataelement-90951" shortName="probleem_anatomische_locatie" type="item" status="cancelled" dataType="code" codelist="ProbleemAnatomischeLocatieCodelijst" orderKey="13.4.1.1">
+  <property name="name" language="nl-NL">ProbleemAnatomischeLocatie</property>
+  <property name="description" language="nl-NL">Anatomische locatie die de focus is van de verrichting.</property>
+</concept>

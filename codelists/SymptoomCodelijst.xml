@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SymptoomCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.8.2.5" shortName="SymptoomCodelijst" displayName="SymptoomCodelijst" status="final">
+  <item code="39579001" codeSystem="2.16.840.1.113883.6.96" displayName="Anaphylaxis" type="L">
+    <property name="name" language="nl-NL">Anafylaxie</property>
+  </item>
+  <item code="41291007" codeSystem="2.16.840.1.113883.6.96" displayName="Angioedema" type="L">
+    <property name="name" language="nl-NL">Angio-oedeem</property>
+  </item>
+  <item code="490008" codeSystem="2.16.840.1.113883.6.96" displayName="Upper respiratory tract hypersensitivity reaction" type="L">
+    <property name="name" language="nl-NL">Overgevoeligheidsreactie van de bovenste luchtwegen</property>
+  </item>
+  <item code="267036007" codeSystem="2.16.840.1.113883.6.96" displayName="Dyspnea" type="L">
+    <property name="name" language="nl-NL">Kortademigheid</property>
+  </item>
+  <item code="4386001" codeSystem="2.16.840.1.113883.6.96" displayName="Bronchospasm" type="L">
+    <property name="name" language="nl-NL">Bronchospasme</property>
+  </item>
+  <item code="126485001" codeSystem="2.16.840.1.113883.6.96" displayName="Urticaria (hives)" type="L">
+    <property name="name" language="nl-NL">Urticaria</property>
+  </item>
+  <item code="40275004" codeSystem="2.16.840.1.113883.6.96" displayName="Contact dermatitis" type="L">
+    <property name="name" language="nl-NL">Contactdermatitis</property>
+  </item>
+  <item code="418363000" codeSystem="2.16.840.1.113883.6.96" displayName="Itching of skin" type="L">
+    <property name="name" language="nl-NL">Jeuk</property>
+  </item>
+  <item code="271807003" codeSystem="2.16.840.1.113883.6.96" displayName="Eruption of skin" type="L">
+    <property name="name" language="nl-NL">Exantheem</property>
+  </item>
+  <item code="473460002" codeSystem="2.16.840.1.113883.6.96" displayName="Allergic conjunctivitis" type="L">
+    <property name="name" language="nl-NL">Allergische conjunctivitis</property>
+  </item>
+  <item code="23067006" codeSystem="2.16.840.1.113883.6.96" displayName="TEN - Toxic epidermal necrolysis" type="L">
+    <property name="name" language="nl-NL">Toxische epidermale necrolyse</property>
+  </item>
+  <item code="16932000" codeSystem="2.16.840.1.113883.6.96" displayName="Nausea and vomiting" type="L">
+    <property name="name" language="nl-NL">Misselijk en braken</property>
+  </item>
+  <item code="62315008" codeSystem="2.16.840.1.113883.6.96" displayName="Diarrhoea" type="L">
+    <property name="name" language="nl-NL">Diarree</property>
+  </item>
+  <item code="297942002" codeSystem="2.16.840.1.113883.6.96" displayName="Drug-induced erythema multiforme" type="L">
+    <property name="name" language="nl-NL">Door medicatie veroorzaakte erythema multiforme</property>
+  </item>
+  <item code="386661006" codeSystem="2.16.840.1.113883.6.96" displayName="Fever" type="L">
+    <property name="name" language="nl-NL">Koorts</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

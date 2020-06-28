@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82352" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82352" parent="peri23-dataelement-80701" shortName="roepnaam" type="item" status="draft" dataType="string" orderKey="6.11.9.1.3.1.3">
+  <property name="name" language="nl-NL">Roepnaam</property>
+  <property name="description" language="nl-NL">Naam, die de persoon voert en die niet de officiële naam is.</property>
+</concept>

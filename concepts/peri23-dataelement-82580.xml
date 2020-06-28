@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82580" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82580" parent="peri23-dataelement-82578" shortName="specialisme" type="item" status="final" dataType="code" codelist="Specialisme" orderKey="1.5.4.1.2">
+  <property name="name" language="nl-NL">Specialisme</property>
+  <property name="description" language="nl-NL">Zorginstelling Specialisme.</property>
+</concept>

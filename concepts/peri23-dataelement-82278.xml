@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82278" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82278" parent="peri23-dataelement-82268" shortName="afwijkende_groei_foetus" type="item" status="final" dataType="code" codelist="GroeiAfwijkend" orderKey="7.23.12">
+  <property name="name" language="nl-NL">Afwijkende groei foetus</property>
+  <property name="description" language="nl-NL">Afwijkende groei foetus</property>
+</concept>

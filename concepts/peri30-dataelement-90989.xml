@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90989" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90989" parent="peri30-dataelement-90981" shortName="toelichting" type="item" status="cancelled" dataType="string" orderKey="13.4.9.8.3.1.5">
+  <property name="name" language="nl-NL">Toelichting</property>
+  <property name="description" language="nl-NL">Opmerking bij de toepassing of informatie over het gebruikte hulpmiddel.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20170" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20170" parent="peri23-dataelement-3" shortName="trisomie_in_de_anamneseq" type="item" status="final" dataType="boolean" orderKey="7.19">
+  <property name="name" language="nl-NL">Trisomie in de anamnese?</property>
+  <property name="description" language="nl-NL">Is er in voorafgaande zwangerschappen sprake van een foetus of kind met een trisomie?</property>
+</concept>

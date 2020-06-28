@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82531" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82531" parent="peri23-dataelement-82527" shortName="promq" type="item" status="final" dataType="boolean" orderKey="1.5.5.3.5.2">
+  <property name="name" language="nl-NL">PROM?</property>
+  <property name="description" language="nl-NL">PROM = Prelabor Rupture of MembranesPROM = Breken van vliezen zonder weeën 37w0d of later.</property>
+</concept>

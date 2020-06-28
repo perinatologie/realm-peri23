@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80993" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80993" parent="peri23-dataelement-80991" shortName="vit_b12" type="item" status="draft" dataType="quantity" unit="pmol/l" orderKey="11.17.1.4.3">
+  <property name="name" language="nl-NL">Vit. B12</property>
+  <property name="description" language="nl-NL">Vitamine B12</property>
+</concept>

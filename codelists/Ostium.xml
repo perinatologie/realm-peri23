@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Ostium" oid="2.16.840.1.113883.2.4.11.272" shortName="Ostium" displayName="Ostium" status="draft">
+  <item code="62531004" codeSystem="2.16.840.1.113883.6.96" displayName="Placenta previa marginalis (disorder)" type="L">
+    <property name="name" language="nl-NL">&gt;= 2cm</property>
+  </item>
+  <item code="24095001" codeSystem="2.16.840.1.113883.6.96" displayName="Placenta previa partialis (disorder)" type="L">
+    <property name="name" language="nl-NL">&lt; 2cm</property>
+  </item>
+  <item code="15663008" codeSystem="2.16.840.1.113883.6.96" displayName="Placenta previa centralis (disorder)" type="L">
+    <property name="name" language="nl-NL">over ostium</property>
+  </item>
+</codelist>

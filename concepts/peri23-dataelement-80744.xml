@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80744" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80744" parent="peri23-dataelement-80621" shortName="indaling" type="item" status="draft" dataType="code" codelist="Indaling23" orderKey="7.22.17.2">
+  <property name="name" language="nl-NL">Indaling</property>
+  <property name="description" language="nl-NL">Indaling geconstateerd bij uitwendig onderzoek.</property>
+</concept>

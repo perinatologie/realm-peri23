@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82689" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82689" parent="peri23-dataelement-82685" shortName="zwangerschapsduur" type="item" status="cancelled" dataType="quantity" orderKey="13.2.7.4">
+  <property name="name" language="nl-NL">Zwangerschapsduur</property>
+  <property name="description" language="nl-NL">Duur van de zwangerschap op het moment van vragen. De duur kan in dagen (d) of weken (wk) opgegeven worden.</property>
+</concept>

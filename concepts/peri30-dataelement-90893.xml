@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90893" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90893" parent="peri30-dataelement-90886" shortName="voeding" type="group" status="cancelled" orderKey="13.4.4.6">
+  <property name="name" language="nl-NL">Voeding</property>
+  <property name="description" language="nl-NL">Container van het concept Voeding. Deze container bevat alle gegevenselementen van het concept Voeding.Er zijn verschillende combinaties mogelijk:1) VoedingSoort borstvoeding, VoedingMethode borstvoeding = borst geven op de natuurlijke wijze.2) VoedingSoort borstvoeding, VoedingMethode flesvoeding = afgekolfte borstvoeding geven per fles.3) VoedingSoort kunstvoeding, VoedingMethode flesvoeding = fles met kunstvoeding geven.Vul de container voor elke relevante combinatie in.</property>
+</concept>

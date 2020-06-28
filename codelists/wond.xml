@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="wond" oid="2.16.840.1.113883.2.4.11.248" shortName="wond" displayName="Wond" status="draft">
+  <item code="298006005" codeSystem="2.16.840.1.113883.6.96" displayName="Wound healed (finding)" type="L">
+    <property name="name" language="nl-NL">Goed genezen</property>
+  </item>
+  <item code="271618001" codeSystem="2.16.840.1.113883.6.96" displayName="Impaired wound healing (finding)" type="L">
+    <property name="name" language="nl-NL">Nog klachten</property>
+  </item>
+</codelist>

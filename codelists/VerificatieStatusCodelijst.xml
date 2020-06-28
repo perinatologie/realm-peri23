@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VerificatieStatusCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.5.1.4" shortName="VerificatieStatusCodelijst" displayName="VerificatieStatusCodelijst" status="final">
+  <item code="415684004" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected" type="L">
+    <property name="name" language="nl-NL">Werk</property>
+  </item>
+  <item code="410590009" codeSystem="2.16.840.1.113883.6.96" displayName="Known possible" type="L">
+    <property name="name" language="nl-NL">Differentiaal</property>
+  </item>
+  <item code="410605003" codeSystem="2.16.840.1.113883.6.96" displayName="Confirmed present" type="L">
+    <property name="name" language="nl-NL">Bevestigd</property>
+  </item>
+  <item code="410516002" codeSystem="2.16.840.1.113883.6.96" displayName="Known absent" type="L">
+    <property name="name" language="nl-NL">Uitgesloten</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Unknown" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

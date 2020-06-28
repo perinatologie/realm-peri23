@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82448" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82448" parent="peri23-dataelement-82014" shortName="van_2e_naar_1e_lijn" type="item" status="final" dataType="code" codelist="RedenVerw2to1" orderKey="1.5.5.5">
+  <property name="name" language="nl-NL">Van 2e naar 1e lijn</property>
+  <property name="description" language="nl-NL">Reden verwijzing van 2e naar 1e lijn</property>
+</concept>

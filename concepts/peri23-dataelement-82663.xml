@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82663" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82663" parent="peri23-dataelement-82662" shortName="zorgverlener" type="group" status="cancelled" orderKey="13.4.3.10.1">
+  <property name="name" language="nl-NL">Zorgverlener</property>
+  <property name="description" language="nl-NL">Rootconcept van de bouwsteen Zorgverlener. Dit rootconcept bevat alle gegevenselementen van de bouwsteen Zorgverlener. Bij verwijzing naar deze bouwsteen kan tevens de rol die de zorgverlener in het zorgproces vervult, worden meegegeven. Voor zorgverleners kan dit bijvoorbeeld hoofdbehandelaar of verwijzer zijn</property>
+</concept>

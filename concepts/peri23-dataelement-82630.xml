@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82630" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82630" parent="peri23-dataelement-82626" shortName="ernst" type="item" status="cancelled" dataType="code" codelist="ErnstCodelijst" orderKey="13.2.5.8.4">
+  <property name="name" language="nl-NL">Ernst</property>
+  <property name="description" language="nl-NL">De ernst van de reactie ten gevolge van de blootgestelling aan de veroorzakende stof.</property>
+</concept>

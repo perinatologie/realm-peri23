@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80819" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80819" parent="peri23-dataelement-3" shortName="foliumzuur_gebruik" type="item" status="draft" dataType="code" codelist="foliumzuur_gebruik" orderKey="7.10">
+  <property name="name" language="nl-NL">Foliumzuur gebruik</property>
+  <property name="description" language="nl-NL">Foliumzuur gebruik</property>
+</concept>

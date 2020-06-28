@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Type_Relatie" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.275" shortName="Type_Relatie" displayName="Type Relatie" status="draft">
+  <item code="65656005" codeSystem="2.16.840.1.113883.6.96" displayName="biologische moeder (persoon)" type="L">
+    <property name="name" language="nl-NL">1e graad: Zwangere</property>
+  </item>
+  <item code="9947008" codeSystem="2.16.840.1.113883.6.96" displayName="biologische vader (persoon)" type="L">
+    <property name="name" language="nl-NL">1e graad: Aanstaande vader</property>
+  </item>
+  <item code="60614009" codeSystem="2.16.840.1.113883.6.96" displayName="biologische broer (persoon)" type="L">
+    <property name="name" language="nl-NL">2e graad: Broer van ongeboren kind</property>
+  </item>
+  <item code="73678001" codeSystem="2.16.840.1.113883.6.96" displayName="biologische zus (persoon)" type="L">
+    <property name="name" language="nl-NL">2e graad: Zus van ongeboren kind</property>
+  </item>
+  <item code="719762005" codeSystem="2.16.840.1.113883.6.96" displayName="halfbroer met dezelfde vader (persoon)" type="L">
+    <property name="name" language="nl-NL">2e graad: Halfbroer van ongeboren kind - van zijde aanstaande vader</property>
+  </item>
+  <item code="719766008" codeSystem="2.16.840.1.113883.6.96" displayName="halfbroer van moederszijde (persoon)" type="L">
+    <property name="name" language="nl-NL">2e graad: Halfbroer van ongeboren kind - van zijde zwangere</property>
+  </item>
+  <item code="719764006" codeSystem="2.16.840.1.113883.6.96" displayName="Paternal half sister (person)" type="L">
+    <property name="name" language="nl-NL">2e graad: Halfzus van ongeboren kind - van zijde aanstaande vader</property>
+  </item>
+  <item code="719765007" codeSystem="2.16.840.1.113883.6.96" displayName="Maternal half sister (person)" type="L">
+    <property name="name" language="nl-NL">2e graad: Halfzus van ongeboren kind - van zijde zwangere</property>
+  </item>
+  <item code="MGRFTH" codeSystem="2.16.840.1.113883.5.111" displayName="Maternal Grandfather" type="L">
+    <property name="name" language="nl-NL">2e graad: Vader van zwangere</property>
+  </item>
+  <item code="MGRMTH" codeSystem="2.16.840.1.113883.5.111" displayName="Maternal Grandmother" type="L">
+    <property name="name" language="nl-NL">2e graad: Moeder van zwangere</property>
+  </item>
+  <item code="PGRFTH" codeSystem="2.16.840.1.113883.5.111" displayName="Paternal Grandfather" type="L">
+    <property name="name" language="nl-NL">2e graad: Vader van aanstaande vader</property>
+  </item>
+  <item code="PGRMTH" codeSystem="2.16.840.1.113883.5.111" displayName="Paternal Grandmother" type="L">
+    <property name="name" language="nl-NL">2e graad: Moeder van aanstaande vader</property>
+  </item>
+  <item code="442031000124102" codeSystem="2.16.840.1.113883.6.96" displayName="maternale oom (persoon)" type="L">
+    <property name="name" language="nl-NL">3e graad: Broer van zwangere</property>
+  </item>
+  <item code="736454006" codeSystem="2.16.840.1.113883.6.96" displayName="maternale tante (persoon)" type="L">
+    <property name="name" language="nl-NL">3e graad: Zus van zwangere</property>
+  </item>
+  <item code="442041000124107" codeSystem="2.16.840.1.113883.6.96" displayName="paternale oom (persoon)" type="L">
+    <property name="name" language="nl-NL">3e graad: Broer van aanstaande vader</property>
+  </item>
+  <item code="736455007" codeSystem="2.16.840.1.113883.6.96" displayName="paternale tante (persoon)" type="L">
+    <property name="name" language="nl-NL">3e graad: Zus van aanstaande vader</property>
+  </item>
+  <item code="719760002" codeSystem="2.16.840.1.113883.6.96" displayName="paternale neef of nicht in vierde graad (persoon)" type="L">
+    <property name="name" language="nl-NL">paternale neef of nicht in vierde graad (persoon)</property>
+  </item>
+  <item code="736456008" codeSystem="2.16.840.1.113883.6.96" displayName="neef of nicht in vierde graad van moederszijde (persoon)" type="L">
+    <property name="name" language="nl-NL">neef of nicht in vierde graad van moederszijde (persoon)</property>
+  </item>
+  <item code="125678001" codeSystem="2.16.840.1.113883.6.96" displayName="bloedverwant in eerste graad (persoon)" type="L">
+    <property name="name" language="nl-NL">1e graad, onbepaald</property>
+  </item>
+  <item code="699110007" codeSystem="2.16.840.1.113883.6.96" displayName="bloedverwant in tweede graad (persoon)" type="L">
+    <property name="name" language="nl-NL">2e graad, onbepaald</property>
+  </item>
+</codelist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SpierspanningCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.12.7" shortName="SpierspanningCodelijst" displayName="SpierspanningCodelijst" status="final">
+  <item code="Musc1" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.20.7" displayName="Muscles fully relaxed" type="L">
+    <property name="name" language="nl-NL">Spieren volledig ontspannen; geen spierspanning</property>
+  </item>
+  <item code="Musc2" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.20.7" displayName="Reduced muscle tone" type="L">
+    <property name="name" language="nl-NL">Verminderde spierspanning; minder weerstand dan normaal</property>
+  </item>
+  <item code="Musc3" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.20.7" displayName="Normal muscle tone" type="L">
+    <property name="name" language="nl-NL">Normale spierspanning</property>
+  </item>
+  <item code="Musc4" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.20.7" displayName="Increased muscle tone" type="L">
+    <property name="name" language="nl-NL">Toegenomen spierspanning en buiging van vingers en tenen</property>
+  </item>
+  <item code="Musc5" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.20.7" displayName="Extreme muscle rigidity" type="L">
+    <property name="name" language="nl-NL">Extreme spierstijfheid en buiging van vingers en tenen</property>
+  </item>
+</codelist>

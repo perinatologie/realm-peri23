@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Neurologie_Reflexen_Kind" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.270" shortName="Neurologie_Reflexen_Kind" displayName="Neurologie Reflexen Kind" status="draft">
+  <item code="246571003" codeSystem="2.16.840.1.113883.6.96" displayName="asymmetrische Moro-reflex (bevinding)" type="L">
+    <property name="name" language="nl-NL">Asymmetrisch</property>
+  </item>
+  <item code="299742001" codeSystem="2.16.840.1.113883.6.96" displayName="Moro reflex absent (finding)" type="L">
+    <property name="name" language="nl-NL">Afwezig</property>
+  </item>
+</codelist>

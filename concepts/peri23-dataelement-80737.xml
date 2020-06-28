@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80737" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80737" parent="peri23-dataelement-80732" shortName="datum_controle" type="item" status="final" dataType="datetime" orderKey="7.22.1">
+  <property name="name" language="nl-NL">Datum controle</property>
+  <property name="description" language="nl-NL">Datum controle</property>
+</concept>

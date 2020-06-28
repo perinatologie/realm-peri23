@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82645" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82645" parent="peri23-dataelement-82633" shortName="reden_gebruik" type="item" status="cancelled" dataType="string" orderKey="13.4.2.8">
+  <property name="name" language="nl-NL">RedenGebruik</property>
+  <property name="description" language="nl-NL">De reden om medicatie te gebruiken, m.n. bij zelfzorgmiddelen die de patiënt zelf aanschaft.</property>
+</concept>

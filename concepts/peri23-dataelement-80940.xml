@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80940" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80940" parent="peri23-dataelement-80904" shortName="stollingsprobleemq" type="item" status="cancelled" dataType="boolean" orderKey="5.14.2.30">
+  <property name="name" language="nl-NL">Stollingsprobleem?</property>
+  <property name="description" language="nl-NL">Is er sprake van een stollingsprobleem</property>
+</concept>

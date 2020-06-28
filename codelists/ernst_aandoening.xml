@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ernst_aandoening" oid="2.16.840.1.113883.2.4.11.251" shortName="ernst_aandoening" displayName="Ernst van de aandoening" status="draft">
+  <item code="6736007" codeSystem="2.16.840.1.113883.6.96" displayName="Moderate (severity modifier) (qualifier value)" type="L">
+    <property name="name" language="nl-NL">matig</property>
+  </item>
+  <item code="24484000" codeSystem="2.16.840.1.113883.6.96" displayName="Severe (severity modifier) (qualifier value)" type="L">
+    <property name="name" language="nl-NL">ernstig</property>
+  </item>
+</codelist>

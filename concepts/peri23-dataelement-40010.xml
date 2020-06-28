@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-40010" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.40010" parent="peri23-dataelement-40007" shortName="bsn_kind" type="item" status="final" dataType="identifier" orderKey="10.1.3.1.1">
+  <property name="name" language="nl-NL">BSN kind</property>
+  <property name="description" language="nl-NL">BSN van het kind.</property>
+</concept>

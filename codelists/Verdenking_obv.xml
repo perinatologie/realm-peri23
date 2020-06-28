@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Verdenking_obv" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.256" shortName="Verdenking_obv" displayName="Verdenking_obv" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.200" displayName="verdenking structurele afwijking" type="L">
+    <property name="name" language="nl-NL">verdenking structurele afwijking</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.200" displayName="afwijkende biometrie " type="L">
+    <property name="name" language="nl-NL">afwijkende biometrie </property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.200" displayName="obstetrische parameters " type="L">
+    <property name="name" language="nl-NL">obstetrische parameters </property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.200" displayName="Afwijking sonomarker" type="L">
+    <property name="name" language="nl-NL">Afwijking sonomarker</property>
+  </item>
+</codelist>

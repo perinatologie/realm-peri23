@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82638" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82638" parent="peri23-dataelement-82633" shortName="gebruiksinstructie" type="group" status="cancelled" orderKey="13.4.2.3">
+  <property name="name" language="nl-NL">Gebruiksinstructie</property>
+  <property name="description" language="nl-NL">Aanwijzingen voor het gebruik van de medicatie, bijvoorbeeld dosering en toedieningsweg. Bij medicatiegebruik is dit het gebruikspatroon dat de patiënt heeft gevolgd of met zichzelf heeft afgesproken. </property>
+</concept>

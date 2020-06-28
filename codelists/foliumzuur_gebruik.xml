@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="foliumzuur_gebruik" oid="2.16.840.1.113883.2.4.11.227" shortName="foliumzuur_gebruik" displayName="Foliumzuur gebruik" status="final">
+  <item code="30391000146101" codeSystem="2.16.840.1.113883.6.96" displayName="No dietary intake of folate before conception (finding)" type="L">
+    <property name="name" language="nl-NL">Geen</property>
+  </item>
+  <item code="29761000146100" codeSystem="2.16.840.1.113883.6.96" displayName="Dietary intake of folate before conception (finding)" type="L">
+    <property name="name" language="nl-NL">Preconceptioneel</property>
+  </item>
+  <item code="29771000146106" codeSystem="2.16.840.1.113883.6.96" displayName="Dietary intake of folate since confirmed pregnancy (finding)" type="L">
+    <property name="name" language="nl-NL">Vanaf vastgestelde zwangerschap</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90916" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90916" parent="peri30-dataelement-90914" shortName="temperatuur_datum_tijd" type="item" status="cancelled" dataType="datetime" orderKey="13.2.15.2">
+  <property name="name" language="nl-NL">TemperatuurDatumTijd</property>
+  <property name="description" language="nl-NL">Datum en tijd van de meting.</property>
+</concept>

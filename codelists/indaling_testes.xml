@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="indaling_testes" oid="2.16.840.1.113883.2.4.11.252" shortName="indaling_testes" displayName="Indaling testes" status="draft">
+  <item code="56141000146107" codeSystem="2.16.840.1.113883.6.96" displayName="Both testicles palpable in scrotum (finding) " type="L">
+    <property name="name" language="nl-NL">Testes bdz in scrotum palpabel</property>
+  </item>
+  <item code="56131000146104" codeSystem="2.16.840.1.113883.6.96" displayName="Left testicle palpable in scrotum (finding) " type="L">
+    <property name="name" language="nl-NL">Een testis in scrotum palpable (links)</property>
+  </item>
+  <item code="56121000146101" codeSystem="2.16.840.1.113883.6.96" displayName="Right testicle palpable in scrotum (finding) " type="L">
+    <property name="name" language="nl-NL">Een testis in scrotum palpable (rechts)</property>
+  </item>
+  <item code="56151000146105" codeSystem="2.16.840.1.113883.6.96" displayName="No testicles palpable in scrotum (finding) " type="L">
+    <property name="name" language="nl-NL">Geen testes palpable in scrotum</property>
+  </item>
+</codelist>

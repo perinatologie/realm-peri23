@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TemperatuurTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.6.1" shortName="TemperatuurTypeCodelijst" displayName="TemperatuurTypeCodelijst" status="final">
+  <item code="307047009" codeSystem="2.16.840.1.113883.6.96" displayName="Rectal temperature" type="L">
+    <property name="name" language="nl-NL">Rectale temperatuur</property>
+  </item>
+  <item code="415945006" codeSystem="2.16.840.1.113883.6.96" displayName="Oral temperature" type="L">
+    <property name="name" language="nl-NL">Orale temperatuur (onder de tong)</property>
+  </item>
+  <item code="415882003" codeSystem="2.16.840.1.113883.6.96" displayName="Axillary temperature" type="L">
+    <property name="name" language="nl-NL">Axillaire temperatuur (onder de oksel)</property>
+  </item>
+  <item code="415929009" codeSystem="2.16.840.1.113883.6.96" displayName="Groin temperature" type="L">
+    <property name="name" language="nl-NL">Inguinale temperatuur (via de lies)</property>
+  </item>
+  <item code="415974002" codeSystem="2.16.840.1.113883.6.96" displayName="Tympanic temperature" type="L">
+    <property name="name" language="nl-NL">Tympanische temperatuur</property>
+  </item>
+  <item code="415922000" codeSystem="2.16.840.1.113883.6.96" displayName="Forehead temperature" type="L">
+    <property name="name" language="nl-NL">Temporale temperatuur</property>
+  </item>
+  <item code="364246006" codeSystem="2.16.840.1.113883.6.96" displayName="Temperature of vagina" type="L">
+    <property name="name" language="nl-NL">Vaginale temperatuur</property>
+  </item>
+  <item code="698832009" codeSystem="2.16.840.1.113883.6.96" displayName="Bladder temperature" type="L">
+    <property name="name" language="nl-NL">Blaastemperatuur</property>
+  </item>
+  <item code="276885007" codeSystem="2.16.840.1.113883.6.96" displayName="Core body temperature" type="L">
+    <property name="name" language="nl-NL">Kern temperatuur (invasief gemeten)</property>
+  </item>
+</codelist>

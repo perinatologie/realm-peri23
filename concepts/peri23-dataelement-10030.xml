@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-10030" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.10030" parent="peri23-dataelement-2" shortName="burgerservicenummer" type="item" status="final" dataType="identifier" lengthMin="9" lengthMax="9" orderKey="5.1">
+  <property name="name" language="nl-NL">Burgerservicenummer</property>
+  <property name="description" language="nl-NL">Het burgerservicenummer (BSN) is een uniek en persoonsgebonden identificerend nummer. Dit nummer wordt automatisch toegekend bij geboorte en wanneer iemand zich inschrijft bij de Basisregistratie personen (BRP).</property>
+</concept>

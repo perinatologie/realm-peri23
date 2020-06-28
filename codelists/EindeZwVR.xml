@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="EindeZwVR" oid="2.16.840.1.113883.2.4.11.219" shortName="EindeZwVR" displayName="Einde Zwangerschap (verwijsreden)" status="final">
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.46" displayName="Miskraam" type="L">
+    <property name="name" language="nl-NL">Miskraam</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.46" displayName="APLA" type="L">
+    <property name="name" language="nl-NL">APLA</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.46" displayName="EUG - behandeld" type="L">
+    <property name="name" language="nl-NL">EUG - behandeld</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.46" displayName="(partiële) Mola - behandeld" type="L">
+    <property name="name" language="nl-NL">(partiële) Mola - behandeld</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

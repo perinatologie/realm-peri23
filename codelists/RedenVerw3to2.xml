@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenVerw3to2" oid="2.16.840.1.113883.2.4.11.225" shortName="RedenVerw3to2" displayName="Reden Verwijzing (3e naar 2e lijn)" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.10.4" displayName="OHC indicatie vervallen" type="L">
+    <property name="name" language="nl-NL">OHC indicatie vervallen</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

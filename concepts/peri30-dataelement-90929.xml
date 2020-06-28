@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90929" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90929" parent="peri30-dataelement-90919" shortName="uitslag_interpretatie" type="item" status="cancelled" dataType="string" orderKey="13.2.16.10">
+  <property name="name" language="nl-NL">UitslagInterpretatie</property>
+  <property name="description" language="nl-NL">Opmerkingen van de bepaler met betrekking tot duiding van de resultaten</property>
+</concept>

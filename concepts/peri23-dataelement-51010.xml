@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-51010" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.51010" parent="peri23-dataelement-83382" shortName="seotype_tweede_trimester_seo" type="item" status="draft" dataType="code" codelist="ExamObjectiveType" orderKey="11.8.1">
+  <property name="name" language="nl-NL">SEO-type tweede trimester SEO</property>
+  <property name="description" language="nl-NL">Aanduiding van het soort structureel echoscopisch onderzoek.</property>
+</concept>

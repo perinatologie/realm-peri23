@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20101" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20101" parent="peri23-dataelement-20081" shortName="eiceldonatie" type="group" status="draft" orderKey="7.18.4">
+  <property name="name" language="nl-NL">Eiceldonatie</property>
+  <property name="description" language="nl-NL">Gegevens met betrekking tot de Eiceldonatie, mn gegevens van de donor.</property>
+</concept>

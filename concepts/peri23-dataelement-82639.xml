@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82639" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82639" parent="peri23-dataelement-82638" shortName="gebruiks_instructie" type="group" status="cancelled" orderKey="13.4.2.3.1">
+  <property name="name" language="nl-NL">GebruiksInstructie</property>
+  <property name="description" language="nl-NL">Rootconcept van de sub-bouwsteen GebruiksInstructie. Dit rootconcept bevat alle gegevenselementen van de bouwsteen GebruiksInstructie.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82869" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82869" parent="peri23-dataelement-6" shortName="duur_actieve_ontsluitingsfase_ontsluitingsduur" type="item" status="draft" dataType="quantity" unit="h" orderKey="9.8">
+  <property name="name" language="nl-NL">Duur actieve ontsluitingsfase (Ontsluitingsduur)</property>
+  <property name="description" language="nl-NL">Ontsluitingsduur in uren</property>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Afwijking_Mammae_Kind" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.268" shortName="Afwijking_Mammae_Kind" displayName="Afwijking Mammae Kind" status="draft">
+  <item code="34831003" codeSystem="2.16.840.1.113883.6.96" displayName="neonatale gynaecomastie (aandoening)" type="L">
+    <property name="name" language="nl-NL">Gynaecomastie</property>
+  </item>
+  <item code="34831003:272741003=7771000" codeSystem="2.16.840.1.113883.6.96" displayName="neonatale gynaecomastie (aandoening) links" type="L">
+    <property name="name" language="nl-NL">Links</property>
+  </item>
+  <item code="34831003:272741003=24028007" codeSystem="2.16.840.1.113883.6.96" displayName="neonatale gynaecomastie (aandoening) rechts" type="L">
+    <property name="name" language="nl-NL">Rechts</property>
+  </item>
+  <item code="34831003:272741003=51440002" codeSystem="2.16.840.1.113883.6.96" displayName="neonatale gynaecomastie (aandoening) beiderzijds" type="L">
+    <property name="name" language="nl-NL">Beide</property>
+  </item>
+</codelist>

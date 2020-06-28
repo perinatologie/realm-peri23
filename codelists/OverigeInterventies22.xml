@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="OverigeInterventies22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.20" shortName="OverigeInterventies22" displayName="Overige interventies" status="final">
+  <item code="32189006" codeSystem="2.16.840.1.113883.6.96" displayName="Pubiotomy (procedure)" type="L">
+    <property name="name" language="nl-NL">Symfysiotomie</property>
+  </item>
+  <item code="237008007" codeSystem="2.16.840.1.113883.6.96" displayName="Maneuvers for delivery in shoulder dystocia (procedure)" type="S">
+    <property name="name" language="nl-NL">Opheffen schouderdystocie</property>
+  </item>
+  <item code="237009004" codeSystem="2.16.840.1.113883.6.96" displayName="McRobert's maneuver (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">McRoberts</property>
+  </item>
+  <item code="237010009" codeSystem="2.16.840.1.113883.6.96" displayName="Suprapubic pressure on fetal shoulder (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Suprapubische druk</property>
+  </item>
+  <item code="237012001" codeSystem="2.16.840.1.113883.6.96" displayName="Freeing the posterior arm (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Vrijmaken achterste arm</property>
+  </item>
+  <item code="237011008" codeSystem="2.16.840.1.113883.6.96" displayName="Wood's screw maneuver (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Woods</property>
+  </item>
+  <item code="272541000" codeSystem="2.16.840.1.113883.6.96" displayName="Half-kneeling position (finding)" level="1" type="L">
+    <property name="name" language="nl-NL">All Fours</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.4.14.237008007" displayName="Overig" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="40792007" codeSystem="2.16.840.1.113883.6.96" displayName="Kristeller maneuver (procedure)" type="L">
+    <property name="name" language="nl-NL">Fundusexpressie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

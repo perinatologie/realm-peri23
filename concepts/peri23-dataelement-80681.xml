@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80681" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80681" parent="peri23-dataelement-82021" shortName="psychosociale_problematiekq" type="item" status="draft" dataType="boolean" orderKey="5.14.3.1">
+  <property name="name" language="nl-NL">Psychosociale problematiek?</property>
+  <property name="description" language="nl-NL">Is er sprake van psychosociale problematiek?Alléén van toepassing bij psychosociale problemen, niet bij gediagnostiseerde psychiatrische aandoeningen.</property>
+</concept>

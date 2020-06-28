@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-83384" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.83384" parent="peri23-dataelement-14" shortName="peridoscode" type="item" status="draft" dataType="identifier" orderKey="11.2">
+  <property name="name" language="nl-NL">Peridoscode</property>
+  <property name="description" language="nl-NL">Unieke identificatie van de vrouw in het systeem Peridos van het RIVM. Deze identificatie is nodig , omdat niet alle vrouwen een BSN hebben.</property>
+</concept>

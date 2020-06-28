@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AlertNaamCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.8.3.2" shortName="AlertNaamCodelijst" displayName="AlertNaamCodelijst" status="final">
+  <item code="66598005" codeSystem="2.16.840.1.113883.6.96" displayName="Infectious disease carrier" type="L">
+    <property name="name" language="nl-NL">Drager van besmettelijke ziekte</property>
+  </item>
+  <item code="432415000" codeSystem="2.16.840.1.113883.6.96" displayName="Methicillin resistant staphylococcus aureus carrier" type="L">
+    <property name="name" language="nl-NL">Drager MRSA</property>
+  </item>
+  <item code="431109006" codeSystem="2.16.840.1.113883.6.96" displayName="Carrier of vancomycin resistant enterococcus" type="L">
+    <property name="name" language="nl-NL">Drager VRE</property>
+  </item>
+  <item code="699433000" codeSystem="2.16.840.1.113883.6.96" displayName="Human immunodeficiency virus (HIV) carrier" type="L">
+    <property name="name" language="nl-NL">Drager HIV</property>
+  </item>
+  <item code="397940009" codeSystem="2.16.840.1.113883.6.96" displayName="Victim of child abuse" type="L">
+    <property name="name" language="nl-NL">Kindermishandeling</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Other" type="L">
+    <property name="name" language="nl-NL">Anders</property>
+  </item>
+</codelist>

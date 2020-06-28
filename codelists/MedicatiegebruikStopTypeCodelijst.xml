@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MedicatiegebruikStopTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.9.11.1" shortName="MedicatiegebruikStopTypeCodelijst" displayName="MedicatiegebruikStopTypeCodelijst" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.1" displayName="Tijdelijk" type="L">
+    <property name="name" language="nl-NL">Tijdelijke onderbreking van medicamenteuze behandeling (bijvoorbeeld tijdelijk stoppen gebruik vanwege operatie).</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.1" displayName="Definitief" type="L">
+    <property name="name" language="nl-NL">Het staken van een bestaande medicamenteuze behandeling.</property>
+  </item>
+</codelist>

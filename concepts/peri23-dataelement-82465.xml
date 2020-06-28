@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82465" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82465" parent="peri23-dataelement-82454" shortName="diabetes_mellitusq" type="item" status="final" dataType="boolean" orderKey="1.5.5.3.1.6">
+  <property name="name" language="nl-NL">Diabetes mellitus?</property>
+  <property name="description" language="nl-NL">Is er sprake van diabetes mellitus (type I of type II)?Let op: het gaat hier nadrukkelijk niet om zwangerschapsdiabetes (diabetes gravidarum), deze hoort bij de obstetrische anamnese.</property>
+</concept>

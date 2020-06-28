@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="reden_antenatale_betrokkenheid_kinderarts" oid="2.16.840.1.113883.2.4.11.241" shortName="reden_antenatale_betrokkenheid_kinderarts" displayName="Reden antenatale betrokkenheid kinderarts" status="draft">
+  <item code="95607001" codeSystem="2.16.840.1.113883.6.96" displayName="Maternal drug use (disorder)" type="L">
+    <property name="name" language="nl-NL">Medicatiegebruik moeder</property>
+  </item>
+  <item code="169222003" codeSystem="2.16.840.1.113883.6.96" displayName="Ultrasound obstetric scan abnormal (finding)" type="L">
+    <property name="name" language="nl-NL">Echo-afwijking zwangerschap</property>
+  </item>
+  <item code="31801000146106" codeSystem="2.16.840.1.113883.6.96" displayName="Pre-existing maternal disease complicating pregnancy (disorder)|     " type="L">
+    <property name="name" language="nl-NL">Preëxistente maternale aandoening(en)</property>
+  </item>
+  <item code="609496007" codeSystem="2.16.840.1.113883.6.96" displayName="Complication occurring during pregnancy (disorder)" type="L">
+    <property name="name" language="nl-NL">Maternale aandoening(en) ontstaan tijdens zwangerschap</property>
+  </item>
+  <item code="18491000119109" codeSystem="2.16.840.1.113883.6.96" displayName="Psychological disorder during pregnancy (disorder)|" type="L">
+    <property name="name" language="nl-NL">Psychosociale problematiek</property>
+    <property name="desc" language="nl-NL">Bijvoorbeeld POP (Overleg psychiater/gynaecoloog/kinderarts))</property>
+  </item>
+  <item code="TODO" codeSystem="2.16.840.1.113883.6.96" displayName="Eerder kind met afwijkingen" type="L">
+    <property name="name" language="nl-NL">Eerder kind met afwijkingen</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Other" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

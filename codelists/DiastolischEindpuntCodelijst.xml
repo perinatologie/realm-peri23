@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="DiastolischEindpuntCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.4.2" shortName="DiastolischEindpuntCodelijst" displayName="DiastolischEindpuntCodelijst" status="final">
+  <item code="255271000" codeSystem="2.16.840.1.113883.6.96" displayName="Phase 4" type="L">
+    <property name="name" language="nl-NL">Fase IV</property>
+  </item>
+  <item code="255272007" codeSystem="2.16.840.1.113883.6.96" displayName="Phase 5" type="L">
+    <property name="name" language="nl-NL">Fase V</property>
+  </item>
+</codelist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MedischHulpmiddelLateraliteitCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.10.1.4" shortName="MedischHulpmiddelLateraliteitCodelijst" displayName="MedischHulpmiddelLateraliteitCodelijst" status="final">
+  <item code="7771000" codeSystem="2.16.840.1.113883.6.96" displayName="Left" type="L">
+    <property name="name" language="nl-NL">Links</property>
+  </item>
+  <item code="24028007" codeSystem="2.16.840.1.113883.6.96" displayName="Right" type="L">
+    <property name="name" language="nl-NL">Rechts</property>
+  </item>
+  <item code="51440002" codeSystem="2.16.840.1.113883.6.96" displayName="Right and left" type="L">
+    <property name="name" language="nl-NL">Rechts en links</property>
+  </item>
+</codelist>

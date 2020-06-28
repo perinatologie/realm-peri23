@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="NIPTUitslag" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.267" shortName="NIPTUitslag" displayName="NIPTUitslag" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen aanwijzing voor Trisomie 21, 18 of 13" type="L">
+    <property name="name" language="nl-NL">Geen aanwijzing voor Trisomie 21, 18 of 13</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Aanwijzing voor trisomie 21" type="L">
+    <property name="name" language="nl-NL">Aanwijzing voor trisomie 21</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Aanwijzing voor trisomie 18" type="L">
+    <property name="name" language="nl-NL">Aanwijzing voor trisomie 18</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Aanwijzing voor trisomie 13" type="L">
+    <property name="name" language="nl-NL">Aanwijzing voor trisomie 13</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Overige autosomale aneuploidie" type="L">
+    <property name="name" language="nl-NL">Overige autosomale aneuploidie</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Structurele chromosoom afwijking (alles anders dan waarde 7)" type="L">
+    <property name="name" language="nl-NL">Structurele chromosoom afwijking (alles anders dan waarde 7)</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Overig (moederlijke afwijking - CNV" type="L">
+    <property name="name" language="nl-NL">Overig (moederlijke afwijking - CNV</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Overig (moederlijke afwijking - mozaizisme" type="L">
+    <property name="name" language="nl-NL">Overig (moederlijke afwijking - mozaizisme</property>
+  </item>
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Overig (moederlijke afwijking - maligniteit)" type="L">
+    <property name="name" language="nl-NL">Overig (moederlijke afwijking - maligniteit)</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat (labtechnisch mislukt divers)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat (labtechnisch mislukt divers)</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat (labtechnisch apparatuurstoring)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat (labtechnisch apparatuurstoring)</property>
+  </item>
+  <item code="14" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat (labtechnisch mislukt menselijke fout)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat (labtechnisch mislukt menselijke fout)</property>
+  </item>
+  <item code="15" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat (door lage foetale fractie)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat (door lage foetale fractie)</property>
+  </item>
+  <item code="16" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Niet verricht  (hemolytisch)" type="L">
+    <property name="name" language="nl-NL">Niet verricht  (hemolytisch)</property>
+  </item>
+  <item code="17" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Niet verricht (transportprobleem)" type="L">
+    <property name="name" language="nl-NL">Niet verricht (transportprobleem)</property>
+  </item>
+  <item code="18" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Niet verricht (te weinig)" type="L">
+    <property name="name" language="nl-NL">Niet verricht (te weinig)</property>
+  </item>
+  <item code="19" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Niet verricht (overig)" type="L">
+    <property name="name" language="nl-NL">Niet verricht (overig)</property>
+  </item>
+  <item code="20" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen uitslag (onduidelijk resultaat)" type="L">
+    <property name="name" language="nl-NL">Geen uitslag (onduidelijk resultaat)</property>
+  </item>
+  <item code="22" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen uitslag (onduidelijk resultaat) - hertest" type="L">
+    <property name="name" language="nl-NL">Geen uitslag (onduidelijk resultaat) - hertest</property>
+  </item>
+  <item code="23" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="24" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat - hertest (normale foetale fractie)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat - hertest (normale foetale fractie)</property>
+  </item>
+  <item code="27" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat - hertest (lage foetale fractie)" type="L">
+    <property name="name" language="nl-NL">Geen resultaat - hertest (lage foetale fractie)</property>
+  </item>
+  <item code="28" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Niet verricht - hertest" type="L">
+    <property name="name" language="nl-NL">Niet verricht - hertest</property>
+  </item>
+  <item code="30" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen resultaat - twee keer lage foetale fractie" type="L">
+    <property name="name" language="nl-NL">Geen resultaat - twee keer lage foetale fractie</property>
+  </item>
+  <item code="40" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen uitslag - twee keer onduidelijk resultaat" type="L">
+    <property name="name" language="nl-NL">Geen uitslag - twee keer onduidelijk resultaat</property>
+  </item>
+  <item code="50" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.202" displayName="Geen uitslag - onduidleijk resultaat/ niet verricht - tweede hertest" type="L">
+    <property name="name" language="nl-NL">Geen uitslag - onduidleijk resultaat/ niet verricht - tweede hertest</property>
+  </item>
+</codelist>

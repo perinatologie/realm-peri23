@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82054" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82054" parent="peri23-dataelement-82053" shortName="voorvoegsel" type="item" status="draft" dataType="string" orderKey="10.1.3.2.4.1">
+  <property name="name" language="nl-NL">Voorvoegsel</property>
+  <property name="description" language="nl-NL">Deel van de achternaam dat het voorvoegsel bevat.</property>
+</concept>

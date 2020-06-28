@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Biometrie_afwijkend_obv" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.261" shortName="Biometrie_afwijkend_obv" displayName="Biometrie afwijkend obv" status="draft">
+  <item code="11979-2" codeSystem="2.16.840.1.113883.6.1" displayName="Fetal Abdomen Circumference US" type="L">
+    <property name="name" language="nl-NL">abdominal circumference</property>
+  </item>
+  <item code="11984-2" codeSystem="2.16.840.1.113883.6.1" displayName="Fetal Head Circumference US" type="L">
+    <property name="name" language="nl-NL">head circumference</property>
+  </item>
+  <item code="11963-6" codeSystem="2.16.840.1.113883.6.1" displayName="Fetal Femur diaphysis [Length] US" type="L">
+    <property name="name" language="nl-NL">femurlengte</property>
+  </item>
+  <item code="11863-8" codeSystem="2.16.840.1.113883.6.1" displayName="Fetal Cerebellum Diameter transverse US" type="L">
+    <property name="name" language="nl-NL">transcerebellar diameter</property>
+  </item>
+</codelist>

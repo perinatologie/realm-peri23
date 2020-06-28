@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AfwijkendAdemhalingspatroonCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.12.5.3" shortName="AfwijkendAdemhalingspatroonCodelijst" displayName="AfwijkendAdemhalingspatroonCodelijst" status="final">
+  <item code="414563008" codeSystem="2.16.840.1.113883.6.96" displayName="Kussmaul's respiration" type="L">
+    <property name="name" language="nl-NL">Ademhaling volgens Kussmaul</property>
+  </item>
+  <item code="309155007" codeSystem="2.16.840.1.113883.6.96" displayName="Cheyne-Stokes respiration" type="L">
+    <property name="name" language="nl-NL">Ademhaling volgens Cheyne-Stokes</property>
+  </item>
+  <item code="39106000" codeSystem="2.16.840.1.113883.6.96" displayName="Ataxic respiration" type="L">
+    <property name="name" language="nl-NL">Atactische ademhaling</property>
+  </item>
+  <item code="70185004" codeSystem="2.16.840.1.113883.6.96" displayName="Apneustic breathing" type="L">
+    <property name="name" language="nl-NL">Apneustische ademhaling</property>
+  </item>
+  <item code="7013003" codeSystem="2.16.840.1.113883.6.96" displayName="Cluster breathing" type="L">
+    <property name="name" language="nl-NL">Cluster ademhaling</property>
+  </item>
+  <item code="1023001" codeSystem="2.16.840.1.113883.6.96" displayName="Apnoea" type="L">
+    <property name="name" language="nl-NL">Apneu</property>
+  </item>
+  <item code="248586000" codeSystem="2.16.840.1.113883.6.96" displayName="Prolonged expiration" type="L">
+    <property name="name" language="nl-NL">Verlengde expiratoire fase</property>
+  </item>
+  <item code="23141003" codeSystem="2.16.840.1.113883.6.96" displayName="Gasping respiration" type="L">
+    <property name="name" language="nl-NL">Happende ademhaling</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Other" type="L">
+    <property name="name" language="nl-NL">Anders</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82628" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82628" parent="peri23-dataelement-82626" shortName="specifieke_stof" type="item" status="cancelled" dataType="code" codelist="SpecifiekeStofHPKCodelijst" orderKey="13.2.5.8.2">
+  <property name="name" language="nl-NL">SpecifiekeStof</property>
+  <property name="description" language="nl-NL">Meer specifieke aanduiding van de stof die de reactie opriep. Dit kan een specifieke stof uit een groep stoffen zijn waarvoor de patiënt allergisch of overgevoelig is.</property>
+</concept>

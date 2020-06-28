@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ProbleemStatusCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.5.1.2" shortName="ProbleemStatusCodelijst" displayName="ProbleemStatusCodelijst" status="final">
+  <item code="55561003" codeSystem="2.16.840.1.113883.6.96" displayName="Active" type="L">
+    <property name="name" language="nl-NL">Actueel</property>
+  </item>
+  <item code="73425007" codeSystem="2.16.840.1.113883.6.96" displayName="Inactive" type="L">
+    <property name="name" language="nl-NL">Niet actueel</property>
+  </item>
+</codelist>

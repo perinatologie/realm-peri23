@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82312" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82312" parent="peri23-dataelement-82313" shortName="bpd" type="item" status="draft" dataType="quantity" unit="mm" orderKey="11.16.5.10.21">
+  <property name="name" language="nl-NL">BPD</property>
+  <property name="description" language="nl-NL">Bipariëtaal diameter (diameter van de schedel van oor tot oor, ook wel DPB genaamd) van de foetus o.b.v. echoscopie. N.B. Bij de maximale waarde van dit element is ook rekening gehouden met metingen à terme.</property>
+</concept>

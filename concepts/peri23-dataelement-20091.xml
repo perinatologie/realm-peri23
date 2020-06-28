@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20091" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20091" parent="peri23-dataelement-20081" shortName="ovulatieinductie_toegepastq" type="item" status="final" dataType="boolean" orderKey="7.18.1">
+  <property name="name" language="nl-NL">Ovulatie-inductie toegepast?</property>
+  <property name="description" language="nl-NL">Is bij deze subfertiliteitsbehandeling de eisprong met behulp van medicatie (tabetten, injectie of pomp) gestimuleerd / op gang gebracht?</property>
+</concept>

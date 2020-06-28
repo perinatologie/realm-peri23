@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82681" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82681" parent="peri23-dataelement-82677" shortName="taalvaardigheid_lezen" type="item" status="cancelled" dataType="code" codelist="TaalvaardigheidLezenCodelijst" orderKey="13.5.12.4">
+  <property name="name" language="nl-NL">TaalvaardigheidLezen</property>
+  <property name="description" language="nl-NL">Het vermogen om in de betreffende taal geschreven tekst te kunnen lezen en begrijpen. Het gaat hierbij om het taaltechnische aspect</property>
+</concept>

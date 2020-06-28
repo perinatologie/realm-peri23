@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TaalvaardigheidSprekenCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.7.12.5" shortName="TaalvaardigheidSprekenCodelijst" displayName="TaalvaardigheidSprekenCodelijst" status="final">
+  <item code="E" codeSystem="2.16.840.1.113883.5.61" displayName="Excellent" type="L">
+    <property name="name" language="nl-NL">Uitstekend</property>
+  </item>
+  <item code="G" codeSystem="2.16.840.1.113883.5.61" displayName="Good" type="L">
+    <property name="name" language="nl-NL">Goed</property>
+  </item>
+  <item code="F" codeSystem="2.16.840.1.113883.5.61" displayName="Fair" type="L">
+    <property name="name" language="nl-NL">Redelijk</property>
+  </item>
+  <item code="P" codeSystem="2.16.840.1.113883.5.61" displayName="Poor" type="L">
+    <property name="name" language="nl-NL">Slecht</property>
+  </item>
+</codelist>

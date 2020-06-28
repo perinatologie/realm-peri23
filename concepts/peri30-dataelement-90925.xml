@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90925" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90925" parent="peri30-dataelement-90919" shortName="referentie_bovengrens" type="item" status="cancelled" dataType="complex" orderKey="13.2.16.6">
+  <property name="name" language="nl-NL">ReferentieBovengrens</property>
+  <property name="description" language="nl-NL">De voor de patiënt geldende referentie bovenwaarde van de met de test gemeten waarde.</property>
+</concept>

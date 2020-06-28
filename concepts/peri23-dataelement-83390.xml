@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-83390" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.83390" parent="peri23-dataelement-83382" shortName="verdenking_afwijking_obv" type="item" status="draft" dataType="code" codelist="Verdenking_obv" orderKey="11.8.3">
+  <property name="name" language="nl-NL">Verdenking afwijking obv</property>
+  <property name="description" language="nl-NL"/>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20485" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20485" parent="peri23-dataelement-82161" shortName="combinatietest_gewenstq" type="item" status="final" dataType="boolean" orderKey="8.7.3">
+  <property name="name" language="nl-NL">Combinatietest gewenst?</property>
+  <property name="description" language="nl-NL">Hierbij wordt aangegeven of de combinatietest (NT-meting en de 1e trim. bloedtest) door de vrouw gewenst is c.q toestemming voor gegeven heeft. N.B. Dit is dus niet de mening van de zorgverlener! Indien de bloedtest niet wordt uitgevoerd vanwege meerlingzwangerschap, dan geldt alleen de NT-meting.</property>
+</concept>

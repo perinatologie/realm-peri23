@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82596" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82596" parent="peri23-dataelement-82585" shortName="locatie" type="group" status="cancelled" orderKey="13.2.6.9">
+  <property name="name" language="nl-NL">Locatie</property>
+  <property name="description" language="nl-NL">De zorginstelling waar de verrichting is uitgevoerd.</property>
+</concept>

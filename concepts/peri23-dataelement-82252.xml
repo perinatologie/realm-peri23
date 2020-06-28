@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82252" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82252" parent="peri23-dataelement-82236" shortName="beoordeling_biometrie" type="item" status="cancelled" dataType="code" codelist="Biometrie_afwijkend_obv" orderKey="11.16.3.15.20">
+  <property name="name" language="nl-NL">Beoordeling biometrie</property>
+  <property name="description" language="nl-NL">De beoordeling van de eerder gemeten biometrie.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-40170" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.40170" parent="peri23-dataelement-40169" shortName="rol_supervisor" type="item" status="final" dataType="code" codelist="Eindverantwoordelijke22" orderKey="10.1.5.6.2">
+  <property name="name" language="nl-NL">Rol supervisor</property>
+  <property name="description" language="nl-NL">Rol supervisor</property>
+</concept>

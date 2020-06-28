@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90975" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90975" parent="peri30-dataelement-90969" shortName="extra_zuurstof_toediening" type="item" status="cancelled" dataType="boolean" orderKey="13.4.9.6">
+  <property name="name" language="nl-NL">ExtraZuurstofToediening</property>
+  <property name="description" language="nl-NL">Een indicatie die aangeeft of de patiënt extra zuurstof toegediend krijgt. Additionele informatie kan in dat geval worden vastgelegd in de concepten die deel uit maken van de container ToegediendeZuurstof.</property>
+</concept>

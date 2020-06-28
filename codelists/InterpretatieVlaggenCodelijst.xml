@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="InterpretatieVlaggenCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.13.1.7" shortName="InterpretatieVlaggenCodelijst" displayName="InterpretatieVlaggenCodelijst" status="final">
+  <item code="281302008" codeSystem="2.16.840.1.113883.6.96" displayName="Above reference range" type="L">
+    <property name="name" language="nl-NL">Boven referentiewaarde</property>
+  </item>
+  <item code="281300000" codeSystem="2.16.840.1.113883.6.96" displayName="Below reference range" type="L">
+    <property name="name" language="nl-NL">Onder referentiewaarde</property>
+  </item>
+  <item code="11896004" codeSystem="2.16.840.1.113883.6.96" displayName="Intermediate" type="L">
+    <property name="name" language="nl-NL">Intermediair</property>
+  </item>
+  <item code="30714006" codeSystem="2.16.840.1.113883.6.96" displayName="Resistant" type="L">
+    <property name="name" language="nl-NL">Resistent</property>
+  </item>
+  <item code="131196009" codeSystem="2.16.840.1.113883.6.96" displayName="Susceptible" type="L">
+    <property name="name" language="nl-NL">Sensitief</property>
+  </item>
+</codelist>

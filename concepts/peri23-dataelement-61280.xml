@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-61280" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.61280" parent="peri23-dataelement-82313" shortName="gehanteerde_datum_ntmeting" type="item" status="draft" dataType="datetime" orderKey="11.16.5.10.17">
+  <property name="name" language="nl-NL">Gehanteerde datum NT-meting</property>
+  <property name="description" language="nl-NL">De datum NT-meting die door de kansberekeningssoftware is gebruikt als resultaatbeïnvloedende factor bij het verkregen resultaat..</property>
+</concept>

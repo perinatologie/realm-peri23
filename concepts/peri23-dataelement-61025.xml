@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-61025" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.61025" parent="peri23-dataelement-61020" shortName="naam_kansbepaling_softwareapplicatie" type="item" status="draft" dataType="code" codelist="CombiRiskSystem" orderKey="11.16.5.3.1">
+  <property name="name" language="nl-NL">Naam kansbepaling softwareapplicatie</property>
+  <property name="description" language="nl-NL">Naam van de softwareapplicatie die de kansbepaling uitvoert.</property>
+</concept>

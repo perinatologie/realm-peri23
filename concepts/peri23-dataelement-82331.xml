@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82331" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82331" parent="peri23-dataelement-83382" shortName="advies_tweede_trimester_seo" type="item" status="draft" dataType="code" codelist="AdviesSEO" orderKey="11.8.4">
+  <property name="name" language="nl-NL">Advies tweede trimester SEO</property>
+  <property name="description" language="nl-NL">Advies SEO</property>
+</concept>

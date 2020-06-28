@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-60102" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.60102" parent="peri23-dataelement-141" shortName="groeidiagrammen_voor_bpd_hc_ac_fl" type="item" status="draft" dataType="blob" orderKey="11.16.4">
+  <property name="name" language="nl-NL">Groeidiagrammen voor BPD, HC, AC, FL</property>
+  <property name="description" language="nl-NL">Groeidiagrammen voor de parameters BPD, HC, AC, FL vastgesteld tijdens een echo met aanvullende informatie als percentielen en diagrammen van de metingen tijdens de laatste en voorgaande Echo-onderzoeken. Wordt weergegeven als een reeks van parameters en/of grafieken van de actuele waarden en de p-waarden van de groei van de foetus.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82297" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82297" parent="peri23-dataelement-16" shortName="diagnoseinterventie_postnataal" type="group" status="draft" orderKey="12.1">
+  <property name="name" language="nl-NL">Diagnose/interventie postnataal</property>
+  <property name="description" language="nl-NL"/>
+</concept>

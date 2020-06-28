@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82075" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82075" parent="peri23-dataelement-80960" shortName="toelichting" type="item" status="draft" dataType="text" orderKey="11.17.1.5.2">
+  <property name="name" language="nl-NL">Toelichting</property>
+  <property name="description" language="nl-NL">Toelichting in vrije tekst, bijvoorbeeld te gebruiken om aan te geven welk soort test dit betreft.</property>
+</concept>

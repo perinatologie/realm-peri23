@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80838" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80838" parent="peri23-dataelement-80822" shortName="indicatie_interventie_begin_baring" type="item" status="draft" dataType="code" codelist="IndicatieInterventie" orderKey="6.11.2.2">
+  <property name="name" language="nl-NL">Indicatie interventie begin baring</property>
+  <property name="description" language="nl-NL">Indicatie interventie begin baring.Registreer hier één indicatie: de meest zwaarwegende.</property>
+</concept>

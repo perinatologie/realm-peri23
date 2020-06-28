@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-91004" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.91004" parent="peri30-dataelement-91001" shortName="alert_naam" type="item" status="cancelled" dataType="code" codelist="AlertNaamCodelijst" orderKey="13.2.3.2">
+  <property name="name" language="nl-NL">AlertNaam</property>
+  <property name="description" language="nl-NL">Een waarschuwing, anders dan een conditie of probleem. Zo kan bijvoorbeeld als alert 'Agressieve patient' meegegeven worden.De waarschuwing kan als een gecodeerd gegeven worden vasrgelegd (voor veelvoorkomende alerts zijn codes voorzien), maar gezien het dynamische karakter van de waarschuwingen cf. Sars en Ebola, zullen deze alerts vaak als vrije tekst doorgegeven worden.</property>
+</concept>

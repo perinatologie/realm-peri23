@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-83403" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.83403" parent="peri23-dataelement-82527" shortName="meconiumhoudend_vruchtwaterq" type="item" status="draft" dataType="boolean" orderKey="1.5.5.3.5.7">
+  <property name="name" language="nl-NL">Meconiumhoudend vruchtwater?</property>
+  <property name="description" language="nl-NL"/>
+</concept>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SedatiePeriode" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.227" shortName="SedatiePeriode" displayName="Sedatie periode" status="draft">
+  <item code="31771000146108" codeSystem="2.16.840.1.113883.6.96" displayName="Sedation procedure whilst cervical dilatation is less than or equal to 3cm (procedure) " type="L">
+    <property name="name" language="nl-NL">tijdens ontsluitingsperiode &lt;= 3 cm</property>
+  </item>
+  <item code="31761000146102" codeSystem="2.16.840.1.113883.6.96" displayName="Sedation procedure whilst cervical dilatation is more than 3cm (procedure) " type="L">
+    <property name="name" language="nl-NL">tijdens ontsluitingsperiode &gt; 3 cm</property>
+  </item>
+</codelist>

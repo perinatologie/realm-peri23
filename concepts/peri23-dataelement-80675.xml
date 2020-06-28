@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80675" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80675" parent="peri23-dataelement-2" shortName="vrouwelijke_genitale_verminkingq" type="item" status="final" dataType="boolean" orderKey="5.19">
+  <property name="name" language="nl-NL">Vrouwelijke genitale verminking?</property>
+  <property name="description" language="nl-NL">Is er sprake van vrouwelijke genitale verminking?</property>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GeboortePlacenta" oid="2.16.840.1.113883.2.4.11.22" shortName="GeboortePlacenta" displayName="GeboortePlacenta" status="final">
+  <item code="0" codeSystem="2.16.840.1.113883.2.4.4.13.19" displayName="Spontaan" type="L">
+    <property name="name" language="nl-NL">Spontaan</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.19" displayName="Controlled cord traction" type="L">
+    <property name="name" language="nl-NL">Controlled cord traction</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.19" displayName="Manuele placentaverwijdering" type="L">
+    <property name="name" language="nl-NL">Manuele placentaverwijdering</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.19" displayName="Placentaverwijdering bij SC" type="L">
+    <property name="name" language="nl-NL">Placentaverwijdering bij SC</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

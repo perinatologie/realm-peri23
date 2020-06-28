@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80728" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80728" parent="peri23-dataelement-80727" shortName="aandoening" type="group" status="draft" orderKey="5.14.5.1">
+  <property name="name" language="nl-NL">Aandoening</property>
+  <property name="description" language="nl-NL">Groepering per aandoening</property>
+</concept>

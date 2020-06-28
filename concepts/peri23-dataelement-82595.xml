@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82595" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82595" parent="peri23-dataelement-82594" shortName="medisch_hulpmiddel" type="group" status="cancelled" orderKey="13.2.6.8.1">
+  <property name="name" language="nl-NL">MedischHulpmiddel</property>
+  <property name="description" language="nl-NL">Rootconcept van de bouwsteen MedischHulpmiddel. Dit rootconcept bevat alle gegevenselementen van de bouwsteen MedischHulpmiddel.</property>
+</concept>

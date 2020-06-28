@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82592" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82592" parent="peri23-dataelement-82585" shortName="verrichting_type" type="item" status="cancelled" dataType="code" codelist="VerrichtingTypeCodelijst" orderKey="13.2.6.6">
+  <property name="name" language="nl-NL">VerrichtingType</property>
+  <property name="description" language="nl-NL">De naam van de verrichting. Vanaf 1 januari 2013 moeten alle verrichtingen in het primaire proces worden vastgelegd met CBV codes. Om hieraan te voldoen wordt de verrichtingenthesaurus van DHD (CBV verrichtingenset ) voor het coderen van verrichtingen gebruikt. Mogelijk dat in de toekomst naast de CBV verrichtingenset ook de NIC voor verpleegkundige verrichtingen gehanteerd gaat worden en dat er een “coded valueset” komt voor paramedische verrichtingen.</property>
+</concept>

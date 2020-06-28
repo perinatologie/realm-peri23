@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="BesluitSC" oid="2.16.840.1.113883.2.4.11.38" shortName="BesluitSC" displayName="BesluitSC" status="final">
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.3.5" displayName="Tijdens ontsluiting besloten" type="L">
+    <property name="name" language="nl-NL">Tijdens ontsluiting besloten</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.3.5" displayName="Tijdens uitdrijving besloten" type="L">
+    <property name="name" language="nl-NL">Tijdens uitdrijving besloten</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

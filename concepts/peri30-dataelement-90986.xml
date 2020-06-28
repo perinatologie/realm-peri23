@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90986" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90986" parent="peri30-dataelement-90981" shortName="begin_datum" type="item" status="cancelled" dataType="datetime" orderKey="13.4.9.8.3.1.3">
+  <property name="name" language="nl-NL">BeginDatum</property>
+  <property name="description" language="nl-NL">De startdatum van eerste toepassing of implantatie het medische hulpmiddel. Een vage datum, bijv. alleen een jaartal, is toegestaan.</property>
+</concept>

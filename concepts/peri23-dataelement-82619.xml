@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82619" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82619" parent="peri23-dataelement-82618" shortName="veroorzakende_stof" type="item" status="cancelled" dataType="code" codelist="VeroorzakendeStofSNKCodelijst" orderKey="13.2.5.1">
+  <property name="name" language="nl-NL">VeroorzakendeStof</property>
+  <property name="description" language="nl-NL">Stof, groep stoffen of omgevingsfactor waar de patiënt allergisch of overgevoelig voor is.</property>
+</concept>

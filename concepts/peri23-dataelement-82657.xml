@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82657" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82657" parent="peri23-dataelement-82649" shortName="verrichting_methode" type="item" status="cancelled" dataType="code" codelist="VerrichtingMethodeCodelijst" orderKey="13.4.3.7">
+  <property name="name" language="nl-NL">VerrichtingMethode</property>
+  <property name="description" language="nl-NL">De methode of de techniek die toegepast is bij het uitvoeren van de verrichting, zoals toegangsmethode, lavage, pressuring, etc</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82627" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82627" parent="peri23-dataelement-82626" shortName="symptoom" type="item" status="cancelled" dataType="code" codelist="SymptoomCodelijst" orderKey="13.2.5.8.1">
+  <property name="name" language="nl-NL">Symptoom</property>
+  <property name="description" language="nl-NL">De inhoudelijke specificatie van de reactie die optreedt indien de patiënt wordt blootgesteld aan de veroorzakende stof.</property>
+</concept>

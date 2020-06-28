@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82636" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82636" parent="peri23-dataelement-82633" shortName="gebruiksproduct" type="group" status="cancelled" orderKey="13.4.2.2">
+  <property name="name" language="nl-NL">Gebruiksproduct</property>
+  <property name="description" language="nl-NL">Het gebruikte middel. Dit is vrijwel steeds een geneesmiddel. Voedingsmiddelen, bloedproducten, hulp- en verbandmiddelen vallen strikt genomen niet onder de categorie geneesmiddelen, maar kunnen ook worden worden vastgelegd.In principe betreft dit het voorgeschreven product, maar het daadwerkelijk gebruikte product kan afwijken van het voorgeschreven product.</property>
+</concept>

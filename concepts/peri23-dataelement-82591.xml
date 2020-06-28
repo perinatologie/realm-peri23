@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82591" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82591" parent="peri23-dataelement-82590" shortName="probleem" type="group" status="cancelled" orderKey="13.2.6.5.1">
+  <property name="name" language="nl-NL">Probleem</property>
+  <property name="description" language="nl-NL">Rootconcept van de bouwsteen Probleem.Een probleem beschrijft een toestand met betrekking tot de gezondheid en/of het welzijn van een individu. Deze toestand kan zijn benoemd door de patiënt zelf (een klacht), of door zijn of haar zorgverlener (onder andere een diagnose).</property>
+</concept>

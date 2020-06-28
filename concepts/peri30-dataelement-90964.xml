@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90964" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90964" parent="peri30-dataelement-90963" shortName="temperatuur_waarde" type="item" status="cancelled" dataType="quantity" orderKey="13.4.7.1">
+  <property name="name" language="nl-NL">TemperatuurWaarde</property>
+  <property name="description" language="nl-NL">De lichaamstemperatuur is de temperatuur, gemeten in °C (graden Celsius), die binnen in het menselijk lichaam heerst. Voor een juiste interpretatie van de gemeten waarde, moet de meetmethodiek worden gespecificeerd.</property>
+</concept>

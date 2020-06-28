@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90947" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90947" parent="peri30-dataelement-90930" shortName="problemen_met_voeden_bij_moeder_of_kind" type="item" status="cancelled" dataType="boolean" orderKey="13.1.18">
+  <property name="name" language="nl-NL">Problemen met voeden bij moeder of kind</property>
+  <property name="description" language="nl-NL"/>
+</concept>

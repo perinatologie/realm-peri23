@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82870" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82870" parent="peri23-dataelement-6" shortName="duur_uitdrijving_vanaf_actief_meepersen" type="item" status="draft" dataType="quantity" unit="min" orderKey="9.9">
+  <property name="name" language="nl-NL">Duur uitdrijving vanaf actief meepersen</property>
+  <property name="description" language="nl-NL">Duur uitdrijving in minuten.</property>
+</concept>

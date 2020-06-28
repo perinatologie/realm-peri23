@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82586" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82586" parent="peri23-dataelement-82585" shortName="verrichting_start_datum" type="item" status="cancelled" dataType="datetime" orderKey="13.2.6.1">
+  <property name="name" language="nl-NL">VerrichtingStartDatum</property>
+  <property name="description" language="nl-NL">De startdatum (en eventueel starttijd) van de verrichting. Een vage datum, bijv. alleen een jaartal, is toegestaan.Het element biedt de mogelijkheid om de start van de periode van een reeks bij elkaar behorende verrichtingen aan te geven.</property>
+</concept>

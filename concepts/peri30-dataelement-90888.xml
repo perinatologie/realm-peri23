@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90888" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90888" parent="peri30-dataelement-90886" shortName="voeding_toevoeging" type="item" status="cancelled" dataType="string" orderKey="13.4.4.2">
+  <property name="name" language="nl-NL">VoedingToevoeging</property>
+  <property name="description" language="nl-NL">Het is mogelijk om toevoegingen aan borst- en kunstvoeding toe te voegen, zoals johannesbroodpitmeel om de voeding dikker te maken bij reflux van de zuigeling.</property>
+</concept>

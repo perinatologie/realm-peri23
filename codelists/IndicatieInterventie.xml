@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="IndicatieInterventie" oid="2.16.840.1.113883.2.4.11.190" shortName="IndicatieInterventie" displayName="Indicatie interventie" status="final">
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie moeder" type="A">
+    <property name="name" language="nl-NL">conditie moeder</property>
+  </item>
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie moeder - acuut levensbedreigend" level="1" type="L">
+    <property name="name" language="nl-NL">conditie moeder - acuut levensbedreigend</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie moeder - niet levensbedreigend" level="1" type="L">
+    <property name="name" language="nl-NL">conditie moeder - niet levensbedreigend</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie moeder - Onbekend" level="1" type="L">
+    <property name="name" language="nl-NL">conditie moeder - onbekend</property>
+  </item>
+  <item code="20" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie kind" type="A">
+    <property name="name" language="nl-NL">conditie kind</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Foetale nood" level="1" type="L">
+    <property name="name" language="nl-NL">foetale nood</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie kind - niet levensbedreigend" level="1" type="L">
+    <property name="name" language="nl-NL">conditie kind - niet levensbedreigend</property>
+  </item>
+  <item code="23" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Inleiding vanwege congenitale afwijking" level="1" type="L">
+    <property name="name" language="nl-NL">inleiding vanwege congenitale afwijking</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Conditie kind - onbekend" level="1" type="L">
+    <property name="name" language="nl-NL">conditie kind - onbekend</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Interventie in het kader van wetenschappelijk onderzoek" type="L">
+    <property name="name" language="nl-NL">interventie in het kader van lopend wetenschappelijk onderzoek</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.7" displayName="Wens patiënt" type="L">
+    <property name="name" language="nl-NL">wens patiënt</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

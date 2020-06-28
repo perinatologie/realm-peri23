@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20612" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20612" parent="peri23-dataelement-1421" shortName="portio" type="item" status="draft" dataType="code" codelist="CervixEffacement" orderKey="11.17.2.1">
+  <property name="name" language="nl-NL">Portio</property>
+  <property name="description" language="nl-NL">De portio tijdens het vaginaal toucher</property>
+</concept>

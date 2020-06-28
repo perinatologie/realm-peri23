@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RhesuscFactor" oid="2.16.840.1.113883.2.4.11.164" shortName="RhesuscFactor" displayName="Rhesus c Factor" status="draft">
+  <item code="733120009" codeSystem="2.16.840.1.113883.6.96" displayName="Rhc positive (finding)" type="L">
+    <property name="name" language="nl-NL">Rh c Positief</property>
+  </item>
+  <item code="733119003" codeSystem="2.16.840.1.113883.6.96" displayName="Rhc negative (finding)" type="L">
+    <property name="name" language="nl-NL">Rh c Negatief</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

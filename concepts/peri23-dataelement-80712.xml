@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80712" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80712" parent="peri23-dataelement-80696" shortName="geslacht_medische_observatie" type="item" status="draft" dataType="code" codelist="GenderMedisch" orderKey="6.11.9.1.3.2">
+  <property name="name" language="nl-NL">Geslacht (medische observatie)</property>
+  <property name="description" language="nl-NL">Geslacht (medische observatie)</property>
+</concept>

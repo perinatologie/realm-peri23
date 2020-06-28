@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypeVerwijzing" oid="2.16.840.1.113883.2.4.11.221" shortName="TypeVerwijzing" displayName="Type verwijzing" status="final">
+  <item code="11429006" codeSystem="2.16.840.1.113883.6.96" displayName="Consultation (procedure)" type="L">
+    <property name="name" language="nl-NL">Consult</property>
+  </item>
+  <item code="308292007" codeSystem="2.16.840.1.113883.6.96" displayName="Transfer of care (procedure)" type="L">
+    <property name="name" language="nl-NL">Overname</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

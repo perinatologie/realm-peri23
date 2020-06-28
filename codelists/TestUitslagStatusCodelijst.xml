@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TestUitslagStatusCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.13.1.15" shortName="TestUitslagStatusCodelijst" displayName="TestUitslagStatusCodelijst" status="final">
+  <item code="pending" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.16.1" displayName="Pending" type="L">
+    <property name="name" language="nl-NL">Uitslag volgt</property>
+  </item>
+  <item code="preliminary" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.16.1" displayName="Preliminary" type="L">
+    <property name="name" language="nl-NL">Voorlopig</property>
+  </item>
+  <item code="final" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.16.1" displayName="Final" type="L">
+    <property name="name" language="nl-NL">Definitief</property>
+  </item>
+  <item code="appended" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.16.1" displayName="Appended" type="L">
+    <property name="name" language="nl-NL">Aanvullend</property>
+  </item>
+  <item code="corrected" codeSystem="2.16.840.1.113883.2.4.3.11.60.40.4.16.1" displayName="Corrected" type="L">
+    <property name="name" language="nl-NL">Gecorrigeerd</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82623" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82623" parent="peri23-dataelement-82618" shortName="mate_van_kritiek_zijn" type="item" status="cancelled" dataType="code" codelist="MateVanKritiekZijnCodelijst" orderKey="13.2.5.5">
+  <property name="name" language="nl-NL">MateVanKritiekZijn</property>
+  <property name="description" language="nl-NL">Mate van kritiek zijn wordt gedefinieerd als "de potentiële ernst van toekomstige reacties."Dit vertegenwoordigt een klinisch oordeel over het worst case scenario voor een toekomstige reactie. Het kan worden gebaseerd op de ernst van de reacties in het verleden, de dosis en de wijze van blootstelling die in het verleden reacties veroorzaakten, en de levensbedreigende potentie van het type reactie. Mate van kritiek zijn is een kenmerk van de allergische aandoening, niet van de reactie.</property>
+</concept>

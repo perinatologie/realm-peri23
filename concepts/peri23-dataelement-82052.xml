@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82052" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82052" parent="peri23-dataelement-82051" shortName="roepnaam" type="item" status="draft" dataType="string" orderKey="10.1.3.2.3">
+  <property name="name" language="nl-NL">Roepnaam</property>
+  <property name="description" language="nl-NL"/>
+</concept>

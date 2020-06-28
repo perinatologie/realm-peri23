@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="type_anticonceptie" oid="2.16.840.1.113883.2.4.11.250" shortName="type_anticonceptie" displayName="Type anticonceptie" status="draft">
+  <item code="268458002" codeSystem="2.16.840.1.113883.6.96" displayName="Combined oral contraceptive - use (finding)" type="L">
+    <property name="name" language="nl-NL">Combinatiepil (OAC)</property>
+  </item>
+  <item code="169467008" codeSystem="2.16.840.1.113883.6.96" displayName="Progestogen only oral contraceptive (finding)" type="L">
+    <property name="name" language="nl-NL">Progesteron only pil (Cerazette)</property>
+  </item>
+  <item code="449038007" codeSystem="2.16.840.1.113883.6.96" displayName="Uses hormone releasing intrauterine device contraception (finding)" type="L">
+    <property name="name" language="nl-NL">Hormoon spiraaltje (Mirena)</property>
+  </item>
+  <item code="448962006" codeSystem="2.16.840.1.113883.6.96" displayName="Uses copper intrauterine device contraception (finding)" type="L">
+    <property name="name" language="nl-NL">Koper spiraaltje (koper IUD)</property>
+  </item>
+  <item code="450850003" codeSystem="2.16.840.1.113883.6.96" displayName="Uses vaginal hormone releasing ring (finding)" type="L">
+    <property name="name" language="nl-NL">Hormoonhoudende ring (Nuvaring)</property>
+  </item>
+  <item code="268464009" codeSystem="2.16.840.1.113883.6.96" displayName="Depot contraception (finding)" type="L">
+    <property name="name" language="nl-NL">Prikpil (Depo provera)</property>
+  </item>
+  <item code="268461001" codeSystem="2.16.840.1.113883.6.96" displayName="Sheath contraception (finding)" type="L">
+    <property name="name" language="nl-NL">Condoom</property>
+  </item>
+  <item code="428987008" codeSystem="2.16.840.1.113883.6.96" displayName="Subcutaneous contraceptive implant present (finding)" type="L">
+    <property name="name" language="nl-NL">Hormoonhoudend staafje (Implanon)</property>
+  </item>
+  <item code="10114008" codeSystem="2.16.840.1.113883.6.96" displayName="Female sterility (finding)" type="L">
+    <property name="name" language="nl-NL">Sterilisatie Vrouw</property>
+  </item>
+  <item code="49408009" codeSystem="2.16.840.1.113883.6.96" displayName="Male sterility (finding)" type="L">
+    <property name="name" language="nl-NL">Sterilisatie Man</property>
+  </item>
+  <item code="2314005" codeSystem="2.16.840.1.113883.6.96" displayName="Unprotected sexual intercourse (finding)" type="L">
+    <property name="name" language="nl-NL">Geen</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

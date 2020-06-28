@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="NummerSoortCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.20.6.2" shortName="NummerSoortCodelijst" displayName="NummerSoortCodelijst" status="final">
+  <item code="HP" codeSystem="2.16.840.1.113883.5.1119" displayName="Primary Home" type="L">
+    <property name="name" language="nl-NL">Telefoonnummer thuis</property>
+  </item>
+  <item code="TMP" codeSystem="2.16.840.1.113883.5.1119" displayName="Tempory Address" type="L">
+    <property name="name" language="nl-NL">Tijdelijk telefoonnummer</property>
+  </item>
+  <item code="WP" codeSystem="2.16.840.1.113883.5.1119" displayName="Work Place" type="L">
+    <property name="name" language="nl-NL">Zakelijk telefoonnummer</property>
+  </item>
+</codelist>

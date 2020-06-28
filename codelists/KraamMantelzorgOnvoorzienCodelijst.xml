@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="KraamMantelzorgOnvoorzienCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.241" shortName="KraamMantelzorgOnvoorzienCodelijst" displayName="KraamMantelzorgOnvoorzienCodelijst" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.6.96" displayName="Eerste kind" type="L">
+    <property name="name" language="nl-NL">Eerste kind</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.6.96" displayName="Aantal kinderen aanwezig jonger dan 4 jaar" type="L">
+    <property name="name" language="nl-NL">Aantal kinderen aanwezig jonger dan 4 jaar</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.6.96" displayName="Gezinslid met een relevante handicap of ziekte" type="L">
+    <property name="name" language="nl-NL">Gezinslid met een relevante handicap of ziekte</property>
+  </item>
+</codelist>

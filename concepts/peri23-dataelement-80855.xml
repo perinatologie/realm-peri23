@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80855" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80855" parent="peri23-dataelement-80844" shortName="hb" type="item" status="draft" dataType="quantity" unit="mmol/L" orderKey="12.7.14">
+  <property name="name" language="nl-NL">Hb</property>
+  <property name="description" language="nl-NL">Hb labwaarde</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82460" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82460" parent="peri23-dataelement-82454" shortName="urogenitale_aandoening" type="item" status="final" dataType="code" codelist="UrogenitaleAandoening22" orderKey="1.5.5.3.1.3">
+  <property name="name" language="nl-NL">Urogenitale aandoening</property>
+  <property name="description" language="nl-NL">Urogenitale aandoening</property>
+</concept>

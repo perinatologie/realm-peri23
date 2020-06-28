@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Beweging" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.264" shortName="Beweging" displayName="Beweging" status="draft">
+  <item code="289431008" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal movements present (finding)" type="L">
+    <property name="name" language="nl-NL">goed</property>
+  </item>
+  <item code="276372004" codeSystem="2.16.840.1.113883.6.96" displayName="Weak fetal movements (finding)" type="L">
+    <property name="name" language="nl-NL">weinig</property>
+  </item>
+  <item code="276369006" codeSystem="2.16.840.1.113883.6.96" displayName="Reduced fetal movement (finding)" type="L">
+    <property name="name" language="nl-NL">verminderd</property>
+  </item>
+  <item code="289432001" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal movements absent (context-dependent category)" type="L">
+    <property name="name" language="nl-NL">afwezig</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="unknown" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="KraamGeestelijkOnwelbevinden" oid="2.16.840.1.113883.2.4.11.256" shortName="KraamGeestelijkOnwelbevinden" displayName="KraamGeestelijkOnwelbevinden" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.6.96" displayName="Meer dan gewone onzekerheid/onevenwichtigheid" type="L">
+    <property name="name" language="nl-NL">Meer dan gewone onzekerheid/onevenwichtigheid</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.6.96" displayName="Psychische aandoening" type="L">
+    <property name="name" language="nl-NL">Psychische aandoening</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.6.96" displayName="Postpartumdepressie/postpartum psychose na eerdere zwangerschap" type="L">
+    <property name="name" language="nl-NL">Postpartumdepressie/postpartum psychose na eerdere zwangerschap</property>
+  </item>
+</codelist>

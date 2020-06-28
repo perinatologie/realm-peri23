@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82453" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82453" parent="peri23-dataelement-82450" shortName="einde_zwangerschap" type="item" status="final" dataType="code" codelist="EindeZwVR" orderKey="1.5.5.3.4">
+  <property name="name" language="nl-NL">Einde zwangerschap</property>
+  <property name="description" language="nl-NL">De wijze waarop de zwangerschap geëindigd is als verwijsreden.</property>
+</concept>

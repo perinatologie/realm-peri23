@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SCIndicatieSec" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.219" shortName="SCIndicatieSec" displayName="Indicatie secundaire sectio" status="final">
+  <item code="237320005" codeSystem="2.16.840.1.113883.6.96" displayName="Failure to progress in first stage of labor (finding)" type="L">
+    <property name="name" language="nl-NL">niet vorderende ontsluiting</property>
+  </item>
+  <item code="249166003" codeSystem="2.16.840.1.113883.6.96" displayName="Failure to progress in second stage of labor (finding)" type="L">
+    <property name="name" language="nl-NL">niet vorderende uitdrijving</property>
+  </item>
+  <item code="444433005:246090004=130955003" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected fetal distress (situation) " type="L">
+    <property name="name" language="nl-NL">verdenking foetale nood</property>
+  </item>
+  <item code="418138009" codeSystem="2.16.840.1.113883.6.96" displayName="Patient condition finding (finding)" type="L">
+    <property name="name" language="nl-NL">maternale conditie</property>
+  </item>
+  <item code="E" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.55" displayName="Overig, medische reden" type="L">
+    <property name="name" language="nl-NL">overig, medische reden</property>
+  </item>
+  <item code="F" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.55" displayName="Overig, niet-medische reden" type="L">
+    <property name="name" language="nl-NL">overig, niet-medische reden</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

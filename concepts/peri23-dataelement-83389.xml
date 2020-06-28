@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-83389" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.83389" parent="peri23-dataelement-83381" shortName="verdenking_afwijking_obv" type="item" status="draft" dataType="code" codelist="Verdenking_obv" orderKey="11.7.3">
+  <property name="name" language="nl-NL">Verdenking afwijking obv</property>
+  <property name="description" language="nl-NL">Als er een verdenking op een afwijking is geconstateerd, dan is het van belang op basis waarvan deze verdenking is geconstateerd.</property>
+</concept>

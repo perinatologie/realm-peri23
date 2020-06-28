@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90983" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90983" parent="peri30-dataelement-90982" shortName="product_id" type="item" status="cancelled" dataType="code" codelist="HIBCProductIDCodelijst" orderKey="13.4.9.8.3.1.1.1">
+  <property name="name" language="nl-NL">ProductID</property>
+  <property name="description" language="nl-NL">Unieke identificatie van het product, bijvoorbeeld het serienummer.Veel gebruikte coderingen zijn HIBC en GTIN.Indien de wet verplicht stelt dat deze geregistreerd wordt op basis van een UDI (Unique Device Identifier), dient de unieke identificatie opgebouwd te zijn uit een UDI-DI (Device Identifier) en een UDI-PI (Production Identifier(s)). Voor meer informatie, zie: http://www.gs1.org/healthcare/udi .De UDI-DI dient m.b.t. GS1 GTIN (01) coderingen worden vastgelegd, waarmee o.a. een firma aan het producttype wordt gekoppeld. De UDI-PI dient te bestaan uit de volgende application identifier (AI); vervaldatum (17) en serienummer (21) en/of batch- of lotnummer (10).</property>
+</concept>

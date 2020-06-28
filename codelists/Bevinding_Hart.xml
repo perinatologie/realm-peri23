@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Bevinding_Hart" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.260" shortName="Bevinding_Hart" displayName="Bevinding_Hart" status="draft">
+  <item code="128599005" codeSystem="2.16.840.1.113883.6.96" displayName="Structural disorder of heart (disorder)" type="L">
+    <property name="name" language="nl-NL">Structural disorder of heart (disorder)</property>
+  </item>
+  <item code="698247007" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiac arrhythmia (disorder)" type="L">
+    <property name="name" language="nl-NL">Cardiac arrhythmia (disorder)</property>
+  </item>
+  <item code="450303000" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital pericardial effusion (disorder)" type="L">
+    <property name="name" language="nl-NL">Congenital pericardial effusion (disorder)</property>
+  </item>
+  <item code="48121000" codeSystem="2.16.840.1.113883.6.96" displayName="congenitale cardiomegalie (aandoening)" type="L">
+    <property name="name" language="nl-NL">congenitale cardiomegalie (aandoening)</property>
+  </item>
+  <item code="78250005" codeSystem="2.16.840.1.113883.6.96" displayName="Ectopia cordis (disorder)" type="L">
+    <property name="name" language="nl-NL">Ectopia cordis (disorder)</property>
+  </item>
+</codelist>

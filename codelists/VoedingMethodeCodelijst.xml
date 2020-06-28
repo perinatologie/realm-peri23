@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VoedingMethodeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.4.31.2" shortName="VoedingMethodeCodelijst" displayName="VoedingMethodeCodelijst" status="final">
+  <item code="169741004" codeSystem="2.16.840.1.113883.6.96" displayName="Breast fed (finding)" type="L">
+    <property name="name" language="nl-NL">Borstvoeding</property>
+  </item>
+  <item code="268472006" codeSystem="2.16.840.1.113883.6.96" displayName="Infant bottle fed (finding)" type="L">
+    <property name="name" language="nl-NL">Flesvoeding</property>
+  </item>
+</codelist>

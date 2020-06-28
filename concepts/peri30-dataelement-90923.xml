@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90923" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90923" parent="peri30-dataelement-90919" shortName="test_uitslag" type="item" status="cancelled" dataType="complex" orderKey="13.2.16.4">
+  <property name="name" language="nl-NL">TestUitslag</property>
+  <property name="description" language="nl-NL">De uitslag van de test. Afhankelijk van de soort test bestaat de uitslag uit een waarde met eenheid of uit een gecodeerde waarde (ordinaal of nominaal).</property>
+</concept>

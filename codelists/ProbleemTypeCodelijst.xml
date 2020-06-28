@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ProbleemTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.5.1.1" shortName="ProbleemTypeCodelijst" displayName="ProbleemTypeCodelijst" status="final">
+  <item code="282291009" codeSystem="2.16.840.1.113883.6.96" displayName="Diagnosis" type="L">
+    <property name="name" language="nl-NL">Diagnose</property>
+  </item>
+  <item code="418799008" codeSystem="2.16.840.1.113883.6.96" displayName="Symptom" type="L">
+    <property name="name" language="nl-NL">Symptoom</property>
+  </item>
+  <item code="409586006" codeSystem="2.16.840.1.113883.6.96" displayName="Complaint" type="L">
+    <property name="name" language="nl-NL">Klacht</property>
+  </item>
+  <item code="248536006" codeSystem="2.16.840.1.113883.6.96" displayName="Functional Limitation" type="L">
+    <property name="name" language="nl-NL">Functionele Beperking</property>
+  </item>
+  <item code="116223007" codeSystem="2.16.840.1.113883.6.96" displayName="Complication" type="L">
+    <property name="name" language="nl-NL">Complicatie</property>
+  </item>
+</codelist>

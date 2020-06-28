@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Lich._Ond._Kind_ClaviculaeFractuur" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.271" shortName="Lich._Ond._Kind_ClaviculaeFractuur" displayName="Lich. Ond. Kind Claviculae Fractuur" status="draft">
+  <item code="58150001:272741003=7771000" codeSystem="2.16.840.1.113883.6.96" displayName="Claviculae fractuur links" type="L">
+    <property name="name" language="nl-NL">Links</property>
+  </item>
+  <item code="58150001:272741003=24028007" codeSystem="2.16.840.1.113883.6.96" displayName="Claviculae fractuur rechts" type="L">
+    <property name="name" language="nl-NL">Rechts</property>
+  </item>
+  <item code="58150001:272741003=51440002" codeSystem="2.16.840.1.113883.6.96" displayName="Claviculae fractuur beiderzijds" type="L">
+    <property name="name" language="nl-NL">Beiderzijds</property>
+  </item>
+</codelist>

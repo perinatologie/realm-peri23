@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypePartus22" oid="2.16.840.1.113883.2.4.11.182" shortName="TypePartus22" displayName="TypePartus" status="final">
+  <item code="177184002" codeSystem="2.16.840.1.113883.6.96" displayName="Normal delivery procedure (procedure)" type="L">
+    <property name="name" language="nl-NL">Spontaan</property>
+  </item>
+  <item code="3311000146109" codeSystem="2.16.840.1.113883.6.96" displayName="Assisted delivery of fetus (procedure)" type="L">
+    <property name="name" language="nl-NL">Vaginale kunstverlossing</property>
+  </item>
+  <item code="11466000" codeSystem="2.16.840.1.113883.6.96" displayName="Cesarean section (procedure)" type="S">
+    <property name="name" language="nl-NL">Sectio Caesarea</property>
+  </item>
+  <item code="177141003" codeSystem="2.16.840.1.113883.6.96" displayName="Elective cesarian delivery (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Primair</property>
+  </item>
+  <item code="274130007" codeSystem="2.16.840.1.113883.6.96" displayName="Emergency cesarian section (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Secundair</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.14" displayName="Termination of Pregnancy (TOP)" type="S">
+    <property name="name" language="nl-NL">Termination Of Pregnancy (TOP)</property>
+  </item>
+  <item code="447972007" codeSystem="2.16.840.1.113883.6.96" displayName="Medical termination of pregnancy using prostaglandin (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Chemische inleiding</property>
+  </item>
+  <item code="236990004" codeSystem="2.16.840.1.113883.6.96" displayName="Postmortem cesarean section (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Sectio Caesarea</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.4.14.10" displayName="Overig" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+    <property name="desc" language="nl-NL">Overige TOP (Termination of Pregnancy - zwangerschapsafbreking ná 16 weken)</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

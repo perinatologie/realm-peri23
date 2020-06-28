@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PerinatalePeriodeOverdrachtConsult" oid="2.16.840.1.113883.2.4.11.169" shortName="PerinatalePeriodeOverdrachtConsult" displayName="PerinatalePeriodeOverdrachtConsult" status="final">
+  <item code="100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Ante partum" type="A">
+    <property name="name" language="nl-NL">ante partum</property>
+  </item>
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Na eerste controle" level="1" type="L">
+    <property name="name" language="nl-NL">na eerste controle</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Voor 28e week" level="1" type="L">
+    <property name="name" language="nl-NL">voor 28e week</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="28e tot en met 36e week" level="1" type="L">
+    <property name="name" language="nl-NL">28e tot en met 36e week</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Vanaf 37e week" level="1" type="L">
+    <property name="name" language="nl-NL">vanaf 37e week</property>
+  </item>
+  <item code="200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Durante partu" type="A">
+    <property name="name" language="nl-NL">durante partu</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Tijdens ontsluiting" level="1" type="L">
+    <property name="name" language="nl-NL">tijdens ontsluiting</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Tijdens uitdrijving" level="1" type="L">
+    <property name="name" language="nl-NL">tijdens uitdrijving</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Nageboortetijdperk" level="1" type="L">
+    <property name="name" language="nl-NL">nageboortetijdperk</property>
+  </item>
+  <item code="300" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Postpartum" type="A">
+    <property name="name" language="nl-NL">postpartum</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Direct postpartum" level="1" type="L">
+    <property name="name" language="nl-NL">direct postpartum</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Tijdens kraambed" level="1" type="L">
+    <property name="name" language="nl-NL">tijdens kraambed</property>
+  </item>
+  <item code="91" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="Binnen 24 uur" level="2" type="L">
+    <property name="name" language="nl-NL">binnen 24 uur</property>
+  </item>
+  <item code="92" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="2e t/m 7e dag" level="2" type="L">
+    <property name="name" language="nl-NL">2e t/m 7e dag</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="2e week of later" level="1" type="L">
+    <property name="name" language="nl-NL">2e week of later</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

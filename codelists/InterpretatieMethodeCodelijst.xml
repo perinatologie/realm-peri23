@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="InterpretatieMethodeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.13.1.14" shortName="InterpretatieMethodeCodelijst" displayName="InterpretatieMethodeCodelijst" status="final">
+  <item code="tbd" codeSystem="2.16.840.1.113883.6.96" displayName="EUCAST" type="L">
+    <property name="name" language="nl-NL">EUCAST</property>
+  </item>
+</codelist>

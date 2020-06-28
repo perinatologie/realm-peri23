@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenVerw2to1" oid="2.16.840.1.113883.2.4.11.224" shortName="RedenVerw2to1" displayName="Reden Verwijzing (2e naar 1e lijn)" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.10.3" displayName="Zwangerschap/baring/kind ongestoord, fysiologie" type="L">
+    <property name="name" language="nl-NL">Zwangerschap/baring/kind ongestoord, fysiologie</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.10.3" displayName="Zwangerschap/baring/kind ongestoord, met advies" type="L">
+    <property name="name" language="nl-NL">Zwangerschap/baring/kind ongestoord, met advies</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

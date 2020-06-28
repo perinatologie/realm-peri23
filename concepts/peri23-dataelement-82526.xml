@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82526" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82526" parent="peri23-dataelement-82524" shortName="vermoeden_iuvd_op_basis_van" type="item" status="draft" dataType="code" codelist="IUVDMethode" orderKey="1.5.5.3.3.17.2">
+  <property name="name" language="nl-NL">Vermoeden iuvd op basis van</property>
+  <property name="description" language="nl-NL">Waarop is het vermoeden van intra-uteriene vruchtdood gebaseerd?</property>
+</concept>

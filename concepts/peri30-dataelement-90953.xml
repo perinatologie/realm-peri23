@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-90953" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.90953" parent="peri30-dataelement-90951" shortName="probleem_lateraliteit" type="item" status="cancelled" dataType="code" codelist="ProbleemLateraliteitCodelijst" orderKey="13.4.1.2">
+  <property name="name" language="nl-NL">ProbleemLateraliteit</property>
+  <property name="description" language="nl-NL">Lateraliteit verbijzondert de anatomische locatie door, indien van toepassing, de zijdigheid vast te leggen, bijvoorbeeld links.</property>
+</concept>

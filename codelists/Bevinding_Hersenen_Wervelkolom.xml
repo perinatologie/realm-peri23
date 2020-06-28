@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Bevinding_Hersenen_Wervelkolom" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.253" shortName="Bevinding_Hersenen_Wervelkolom" displayName="Bevinding_Hersenen_Wervelkolom" status="draft">
+  <item code="20" codeSystem="2.16.840.1.113883.2.4.4.13.55" displayName="niet open neuraalbuisdefewct" type="L">
+    <property name="name" language="nl-NL">niet open neuraalbuisdefewct</property>
+  </item>
+  <item code="253098009" codeSystem="2.16.840.1.113883.6.96" displayName="neuralebuisdefect (aandoening)" type="L">
+    <property name="name" language="nl-NL">neuralebuisdefect (aandoening)</property>
+  </item>
+</codelist>

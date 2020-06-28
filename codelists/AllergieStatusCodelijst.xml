@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AllergieStatusCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.8.2.3" shortName="AllergieStatusCodelijst" displayName="AllergieStatusCodelijst" status="final">
+  <item code="active" codeSystem="2.16.840.1.113883.5.14" displayName="Active" type="L">
+    <property name="name" language="nl-NL">Actief</property>
+  </item>
+  <item code="completed" codeSystem="2.16.840.1.113883.5.14" displayName="Completed" type="L">
+    <property name="name" language="nl-NL">Niet meer aanwezig</property>
+  </item>
+  <item code="obsolete" codeSystem="2.16.840.1.113883.5.14" displayName="Obsolete" type="L">
+    <property name="name" language="nl-NL">Achterhaald</property>
+  </item>
+  <item code="nullified" codeSystem="2.16.840.1.113883.5.14" displayName="Nullified" type="L">
+    <property name="name" language="nl-NL">Foutief</property>
+  </item>
+</codelist>

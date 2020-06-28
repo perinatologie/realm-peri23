@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82552" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82552" parent="peri23-dataelement-82551" shortName="zorgaanbieder_identificatie_nummer" type="item" status="final" dataType="identifier" orderKey="1.5.3.1.1">
+  <property name="name" language="nl-NL">ZorgaanbiederIdentificatieNummer</property>
+  <property name="description" language="nl-NL">Identificerend nummer van de organisatie. Voor Nederlandse zorgaanbieders wordt hiervoor, indien mogelijk, het URA nummer of het AGB nummer gebruikt. Voor buitenlandse of niet aangesloten zorgaanbieders kan een ander uniek identificerend nummer gebruikt worden. Dit moet vergezeld gaan met de naam en/of code van de uitgevende organisatie.</property>
+</concept>

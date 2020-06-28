@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80740" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80740" parent="peri23-dataelement-80732" shortName="ernst_oedeem" type="item" status="draft" dataType="code" codelist="ernst_aandoening" orderKey="7.22.7">
+  <property name="name" language="nl-NL">Ernst oedeem</property>
+  <property name="description" language="nl-NL">Ernst oedeem</property>
+</concept>

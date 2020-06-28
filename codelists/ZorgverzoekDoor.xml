@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ZorgverzoekDoor" oid="2.16.840.1.113883.2.4.11.222" shortName="ZorgverzoekDoor" displayName="Zorgverzoek door" status="draft">
+  <item code="55841000146108" codeSystem="2.16.840.1.113883.6.96" displayName="Referral by healthcare facility where patient is not registered (procedure)" type="L">
+    <property name="name" language="nl-NL">andere zorginstelling</property>
+  </item>
+  <item code="306098008" codeSystem="2.16.840.1.113883.6.96" displayName="Self-referral (procedure)" type="L">
+    <property name="name" language="nl-NL">patiënt</property>
+  </item>
+  <item code="55831000146100" codeSystem="2.16.840.1.113883.6.96" displayName="Referral by healthcare facility where patient is registered (procedure)" type="L">
+    <property name="name" language="nl-NL">eigen zorginstelling</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

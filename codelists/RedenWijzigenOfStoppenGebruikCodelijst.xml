@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenWijzigenOfStoppenGebruikCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.9.11.2" shortName="RedenWijzigenOfStoppenGebruikCodelijst" displayName="RedenWijzigenOfStoppenGebruikCodelijst" status="final">
+  <item code="266709005" codeSystem="2.16.840.1.113883.6.96" displayName="Medication commenced (finding)" type="L">
+    <property name="name" language="nl-NL">Starten medicamenteuze behandeling</property>
+  </item>
+  <item code="438833006" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of drug or medicament contraindicated (situation)" type="L">
+    <property name="name" language="nl-NL">Contra-indicatie</property>
+  </item>
+  <item code="79899007" codeSystem="2.16.840.1.113883.6.96" displayName="Drug interaction (disorder)" type="L">
+    <property name="name" language="nl-NL">Interactie</property>
+  </item>
+  <item code="473010000" codeSystem="2.16.840.1.113883.6.96" displayName="Hypersensitivity condition (disorder)" type="L">
+    <property name="name" language="nl-NL">Overgevoeligheid</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Geen of onvoldoende effect" type="L">
+    <property name="name" language="nl-NL">Geen of onvoldoende effect</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Te sterk effect" type="L">
+    <property name="name" language="nl-NL">Te sterk effect</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="(Mogelijke) bijwerking" type="L">
+    <property name="name" language="nl-NL">(Mogelijke) bijwerking</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Toedieningsweg voldoet niet" type="L">
+    <property name="name" language="nl-NL">Toedieningsweg voldoet niet</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Indicatie vervallen" type="L">
+    <property name="name" language="nl-NL">Indicatie vervallen</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Beleidswijziging" type="L">
+    <property name="name" language="nl-NL">Beleidswijziging</property>
+  </item>
+  <item code="305335007" codeSystem="2.16.840.1.113883.6.96" displayName="Admission to establishment (procedure)" type="L">
+    <property name="name" language="nl-NL">Opname</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Wens patiënt" type="L">
+    <property name="name" language="nl-NL">Wens patiënt</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Volgens afspraak" type="L">
+    <property name="name" language="nl-NL">Volgens afspraak</property>
+  </item>
+  <item code="14" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Hervatten beleid vorige voorschrijver" type="L">
+    <property name="name" language="nl-NL">Hervatten beleid vorige voorschrijver</property>
+  </item>
+  <item code="15" codeSystem="2.16.840.1.113883.2.4.3.11.60.20.77.5.2.2" displayName="Geplande procedure" type="L">
+    <property name="name" language="nl-NL">Procedure waaronder ingreep, interferentie met gepland labonderzoek, etc.</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

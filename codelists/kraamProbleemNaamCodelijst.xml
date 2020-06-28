@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="kraamProbleemNaamCodelijst" oid="2.16.840.1.113883.2.4.11.254" shortName="kraamProbleemNaamCodelijst" displayName="kraamVrouwProbleemNaamCodelijst" status="draft">
+  <item code="72042002" codeSystem="2.16.840.1.113883.6.96" displayName="Incontinence of feces (finding)" type="L">
+    <property name="name" language="nl-NL">Incontinence of feces (finding)</property>
+  </item>
+  <item code="40956001" codeSystem="2.16.840.1.113883.6.96" displayName="syndroom van Guillain-Barré (aandoening)" type="L">
+    <property name="name" language="nl-NL">syndroom van Guillain-Barré (aandoening)</property>
+  </item>
+  <item code="128241005" codeSystem="2.16.840.1.113883.6.96" displayName="hepatitis (aandoening)" type="L">
+    <property name="name" language="nl-NL">hepatitis (aandoening)</property>
+  </item>
+  <item code="165816005" codeSystem="2.16.840.1.113883.6.96" displayName="positief voor humaan immunodeficiëntievirus (bevinding)" type="L">
+    <property name="name" language="nl-NL">positief voor humaan immunodeficiëntievirus (bevinding)</property>
+  </item>
+  <item code="73211009" codeSystem="2.16.840.1.113883.6.96" displayName="diabetes mellitus (aandoening)" type="L">
+    <property name="name" language="nl-NL">diabetes mellitus (aandoening)</property>
+  </item>
+  <item code="398254007" codeSystem="2.16.840.1.113883.6.96" displayName="pre-eclampsie (aandoening)" type="L">
+    <property name="name" language="nl-NL">pre-eclampsie (aandoening)</property>
+  </item>
+  <item code="38341003" codeSystem="2.16.840.1.113883.6.96" displayName="hypertensieve aandoening (aandoening)" type="L">
+    <property name="name" language="nl-NL">hypertensieve aandoening (aandoening)</property>
+  </item>
+  <item code="76272004" codeSystem="2.16.840.1.113883.6.96" displayName="syfilis (aandoening)" type="L">
+    <property name="name" language="nl-NL">syfilis (aandoening)</property>
+  </item>
+  <item code="165232002" codeSystem="2.16.840.1.113883.6.96" displayName="Bladder: incontinent (finding)" type="L">
+    <property name="name" language="nl-NL">Bladder: incontinent (finding)</property>
+  </item>
+  <item code="249504006" codeSystem="2.16.840.1.113883.6.96" displayName="Passing flatus (finding)" type="L">
+    <property name="name" language="nl-NL">Passing flatus (finding)</property>
+  </item>
+  <item code="38671000119103" codeSystem="2.16.840.1.113883.6.96" displayName="Abnormal urination (finding)" type="L">
+    <property name="name" language="nl-NL">Abnormal urination (finding)</property>
+  </item>
+  <item code="283970001" codeSystem="2.16.840.1.113883.6.96" displayName="Laceration of female perineum (disorder)" type="L">
+    <property name="name" language="nl-NL">Laceration of female perineum (disorder)</property>
+  </item>
+  <item code="31781000146105" codeSystem="2.16.840.1.113883.6.96" displayName="Cesarean section wound (morphologic abnormality)" type="L">
+    <property name="name" language="nl-NL">Cesarean section wound (morphologic abnormality)</property>
+  </item>
+  <item code="19773009" codeSystem="2.16.840.1.113883.6.96" displayName="Infection of the breast AND/OR nipple associated with childbirth (disorder)" type="L">
+    <property name="name" language="nl-NL">Infection of the breast AND/OR nipple associated with childbirth (disorder)</property>
+  </item>
+  <item code="225574009" codeSystem="2.16.840.1.113883.6.96" displayName="Nipple tenderness (finding)" type="L">
+    <property name="name" language="nl-NL">Nipple tenderness (finding)</property>
+  </item>
+  <item code="54220007" codeSystem="2.16.840.1.113883.6.96" displayName="Fissure of nipple (disorder)" type="L">
+    <property name="name" language="nl-NL">Fissure of nipple (disorder)</property>
+  </item>
+</codelist>

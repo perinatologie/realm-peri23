@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82306" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82306" parent="peri23-dataelement-82313" shortName="ivf__icsi_graviditeitq" type="item" status="draft" dataType="boolean" orderKey="11.16.5.10.7">
+  <property name="name" language="nl-NL">IVF / ICSI graviditeit?</property>
+  <property name="description" language="nl-NL">Is de huidige zwangerschap tot stand gekomen op basis van IVF en / of ICSI?</property>
+</concept>

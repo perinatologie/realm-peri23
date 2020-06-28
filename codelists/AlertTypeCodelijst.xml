@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AlertTypeCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.8.3.1" shortName="AlertTypeCodelijst" displayName="AlertTypeCodelijst" status="final">
+  <item code="75323-6" codeSystem="2.16.840.1.113883.6.1" displayName="condition" type="L">
+    <property name="name" language="nl-NL">conditie</property>
+  </item>
+  <item code="74018-3" codeSystem="2.16.840.1.113883.6.1" displayName="alert" type="L">
+    <property name="name" language="nl-NL">waarschuwing</property>
+  </item>
+</codelist>

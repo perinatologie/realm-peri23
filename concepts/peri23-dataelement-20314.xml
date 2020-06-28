@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-20314" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.20314" parent="peri23-dataelement-82012" shortName="zorgverzoek_gedaan_door" type="item" status="draft" dataType="code" codelist="ZorgverzoekDoor" orderKey="1.5.2">
+  <property name="name" language="nl-NL">Zorgverzoek gedaan door</property>
+  <property name="description" language="nl-NL">Zorgverzoek gedaan door</property>
+</concept>

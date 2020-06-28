@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Methode_1e_trimester_SEO" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.258" shortName="Methode_1e_trimester_SEO" displayName="Methode_1e_trimester_SEO" status="draft">
+  <item code="55052008" codeSystem="2.16.840.1.113883.6.96" displayName="Diagnostic ultrasound of gravid uterus (procedure)" type="L">
+    <property name="name" language="nl-NL">abdominaal</property>
+  </item>
+  <item code="430064008" codeSystem="2.16.840.1.113883.6.96" displayName="Transvaginal obstetric ultrasonography (procedure)" type="L">
+    <property name="name" language="nl-NL">vaginaal</property>
+  </item>
+  <item code="55052008+430064008" codeSystem="2.16.840.1.113883.6.96" displayName="beide" type="L">
+    <property name="name" language="nl-NL">beide</property>
+  </item>
+</codelist>

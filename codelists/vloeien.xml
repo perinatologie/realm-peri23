@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="vloeien" oid="2.16.840.1.113883.2.4.11.249" shortName="vloeien" displayName="Vloeien" status="draft">
+  <item code="289579003" codeSystem="2.16.840.1.113883.6.96" displayName="Lochia ceased (finding)" type="L">
+    <property name="name" language="nl-NL">Gestopt</property>
+  </item>
+  <item code="289577001" codeSystem="2.16.840.1.113883.6.96" displayName="Lochia reducing (finding)" type="L">
+    <property name="name" language="nl-NL">Nog iets</property>
+  </item>
+  <item code="31791000146107" codeSystem="2.16.840.1.113883.6.96" displayName="Lochia irregular (finding)" type="L">
+    <property name="name" language="nl-NL">Onregelmatig</property>
+  </item>
+  <item code="289580000" codeSystem="2.16.840.1.113883.6.96" displayName="Lochia heavy (finding)" type="L">
+    <property name="name" language="nl-NL">Veel</property>
+  </item>
+</codelist>

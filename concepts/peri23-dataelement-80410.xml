@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-80410" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.80410" parent="peri23-dataelement-80405" shortName="beoogde_ontvangers" type="group" status="draft" orderKey="2.5.1">
+  <property name="name" language="nl-NL">Beoogde ontvanger(s)</property>
+  <property name="description" language="nl-NL">Beoogde ontvanger(s)</property>
+</concept>

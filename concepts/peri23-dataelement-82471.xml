@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri23-dataelement-82471" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.6.82471" parent="peri23-dataelement-82454" shortName="mdl_aandoening" type="item" status="final" dataType="code" codelist="MaagDarmLeveraandoening22" orderKey="1.5.5.3.1.9">
+  <property name="name" language="nl-NL">MDL aandoening</property>
+  <property name="description" language="nl-NL">Maag Darm Lever aandoening</property>
+</concept>

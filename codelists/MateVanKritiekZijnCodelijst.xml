@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MateVanKritiekZijnCodelijst" oid="2.16.840.1.113883.2.4.3.11.60.40.2.8.2.4" shortName="MateVanKritiekZijnCodelijst" displayName="MateVanKritiekZijnCodelijst" status="final">
+  <item code="255604002" codeSystem="2.16.840.1.113883.6.96" displayName="Mild" type="L">
+    <property name="name" language="nl-NL">Licht</property>
+  </item>
+  <item code="6736007" codeSystem="2.16.840.1.113883.6.96" displayName="Moderate" type="L">
+    <property name="name" language="nl-NL">Matig</property>
+  </item>
+  <item code="24484000" codeSystem="2.16.840.1.113883.6.96" displayName="Severe" type="L">
+    <property name="name" language="nl-NL">Ernstig</property>
+  </item>
+  <item code="399166001" codeSystem="2.16.840.1.113883.6.96" displayName="Fatal" type="L">
+    <property name="name" language="nl-NL">Fataal</property>
+  </item>
+</codelist>

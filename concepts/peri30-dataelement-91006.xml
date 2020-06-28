@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri30-dataelement-91006" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.10.91006" parent="peri30-dataelement-91001" shortName="alert_type" type="item" status="cancelled" dataType="code" codelist="AlertTypeCodelijst" orderKey="13.2.3.5">
+  <property name="name" language="nl-NL">AlertType</property>
+  <property name="description" language="nl-NL">Geeft het type alert aan, dat wil zeggen een grove indeling van de oorzaak of oorsprong waaruit de waarschuwing voort komt.</property>
+</concept>
